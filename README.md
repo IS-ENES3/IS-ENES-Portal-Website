@@ -1,9 +1,9 @@
-# ISENES3 Portal
+# ISENES3 Portal Website
 
-This site (see deployment at https://valeriupredoi.github.io/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template.
+This site (see deployment at https://is-enes3.github.io/IS-ENES-Portal-Website/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template.
 
 Maintenance is done by Valeriu Predoi. Automatic build tests happen with every push to repository, and are
-run in a [Github Actions Test]().
+run in a [Github Actions Test](https://github.com/IS-ENES3/IS-ENES-Portal-Website/actions).
 
 **NOTE** don't push too many times with very small changes, that'd trigger a lot of Github Actions tests; wait until you
 have a fair bit of changes, then build locally to test, then push to remote.
@@ -144,8 +144,8 @@ gem 'coderay', '1.1.1'
 
 ## 5. Portal website
 
-This is a sandbox (toy) [website](https://valeriupredoi.github.io/) built by me, with a 
-Feeling Responsive base, see the modified [source](https://github.com/valeriupredoi/valeriupredoi.github.io).
+This is a sandbox [website](https://is-enes3.github.io/IS-ENES-Portal-Website/) built by V Predoi initially, with a 
+Feeling Responsive base, see the modified [source](https://github.com/IS-ENES3/IS-ENES-Portal-Website).
 
 The Feeling Responsive base template can be forked or gitballed from its [source](https://github.com/Phlow/feeling-responsive)
 and set up for the ISENES3 website needs.
