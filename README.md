@@ -12,12 +12,12 @@ have a fair bit of changes, then build locally to test, then push to remote.
 
 - clone the source:
 ```
-git clone https://github.com/valeriupredoi/valeriupredoi.github.io.git
+git clone https://github.com/IS-ENES3/IS-ENES-Portal-Website.git
 ```
 - enter directory and grab the latest version:
 ```
-cd valeriupredoi.github.io
-git pull origin master
+cd IS-ENES-Portal-Website
+git pull origin main
 ```
 - create a new branch where your changes are to be staged:
 ```
@@ -142,7 +142,7 @@ gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 ```
 
-## 5. Toy website (valeriupredoi pages, lots of Porsche 956C and 962C)
+## 5. Portal website
 
 This is a sandbox (toy) [website](https://valeriupredoi.github.io/) built by me, with a 
 Feeling Responsive base, see the modified [source](https://github.com/valeriupredoi/valeriupredoi.github.io).
