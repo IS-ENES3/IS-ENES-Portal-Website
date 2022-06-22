@@ -31,7 +31,7 @@ permalink: /index.html
 homepage: true
 ---
 
-## Welcome to the IS-ENES3 project
+## Welcome to the IS-ENES3 Portal
 ### Infrastructure for the European Network for Earth System Modelling (2019 - 2022)
 
 IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES).
