@@ -15,20 +15,17 @@ header:
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
-  title: "Access Calls"
-  url: 'https://valeriupredoi.github.io/access-calls/'
+  title: "Strategy"
+  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/strategy/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Past and present access calls.'
 widget2:
-  title: "Training"
-  url: 'https://valeriupredoi.github.io/training/'
+  title: "IS-ENES"
+  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/isenes/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Past and present training sessions.'
 widget3:
-  title: "Workshops"
-  url: 'https://valeriupredoi.github.io/workshops/'
+  title: "ESiWACE"
+  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/esiwace/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Past and present workshops.'
 
 ---
 
