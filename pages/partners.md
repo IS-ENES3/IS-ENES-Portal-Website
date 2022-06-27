@@ -2,7 +2,6 @@
 layout: page
 title: Partners
 subheadline: Partners Table
-# teaser: "ISENES3 Partners are many and varied."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/partners/"
@@ -22,6 +21,8 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 
 ---
+
+Vi: I left the IS-ENES3 partners here since they may be the same for the ENES consortium?
 
 **The Consortium comprises 22 partners from 11 countries:**
 
