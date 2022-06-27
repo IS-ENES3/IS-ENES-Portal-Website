@@ -2,16 +2,20 @@
   url: "/"
   side: left
 
-- title: About ISENES3
-  url: "/about-isenes3/"
+- title: ENES Portal
+  url: "/about-enes/"
   side: left
   dropdown:
   - title: "Objectives"
     url: "/objectives/"
-  - title: "Description of Work"
-    url: "/description-of-work/"
   - title: "Partners"
     url: "/partners/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "HPC Task Force"
+    url: "/hpc-task-force/"
+  - title: "Data Task Force"
+    url: "/data-task-force/"
 
 - title: "Events and News"
   url: "/events-and-news/"
