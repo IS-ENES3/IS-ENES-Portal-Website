@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: ENES Portal
+- title: "ENES Portal"
   url: "/about-enes/"
   side: left
   dropdown:
@@ -17,42 +17,16 @@
   - title: "Data Task Force"
     url: "/data-task-force/"
 
-- title: "Events and News"
-  url: "/events-and-news/"
+- title: "Research Infrastructure"
+  url: "/research-infrastructure/"
   side: left
   dropdown:
-  - title: "Access Calls"
-    url: "/access-calls"
-  - title: "Training"
-    url: "/training"
-  - title: "Workshops"
-    url: "/workshops"
-  - title: "Newsletters"
-    url: "/design/newsletters"
-
-- title: "Services on Models&Tools"
-  url: "/services-models-tools/"
-  side: left
-  dropdown:
-  - title: "European Earth System Models"
-    url: "/smt-european-esms"
-  - title: "European Ocean Platform"
-    url: "/smt-european-ocean-platform"
-  - title: "Common Software Tools"
-    url: "/smt-common-software-tools"
-
-- title: "Services on Data&Metadata"
-  url: "/services-data-metadata/"
-  side: left
-  dropdown:
-  - title: "Which Model Data?"
-    url: "/sdm-which-model-data"
-  - title: "How to Access and Use Model Data?"
-    url: "/sdm-access-use-data"
-  - title: "How to Access Metadata?"
-    url: "/sdm-access-metadata"
-  - title: "How to Provide Data?"
-    url: "/sdm-how-to-provide-data"
+  - title: "Strategy"
+    url: "/strategy"
+  - title: "IS-ENES"
+    url: "/isenes"
+  - title: "ESiWACE"
+    url: "/esiwace"
 
 - title: "Dissemination"
   url: "/dissemination/"
@@ -66,22 +40,6 @@
     url: "/presentations-posters/"
   - title: "Lectures Tutorials Webinars"
     url: "/lectures-tutorials-webinars/"
-
-- title: Archive
-  url: "/isenes-archive/"
-  side: left
-  dropdown:
-  - title: "IS-ENES Phase 1"
-    url: "/isenes-phase-1/"
-  - title: "IS-ENES Phase 2"
-    url: "/isenes-phase-2/"
-
-#- title: Blog
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
