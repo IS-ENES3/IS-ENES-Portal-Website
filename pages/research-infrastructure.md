@@ -1,6 +1,6 @@
 ---
 layout: frontpage  # page-fullwidth
-title: "Research Infrastructure"
+title: Research Infrastructure
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/research-infrastructure/"
@@ -28,6 +28,7 @@ widget3:
   image: Banner_website_IS-ENES3.png
 
 ---
+
 
 Some text describing the infra with schema (add schema) (all this stuff is
 above the widgets).
