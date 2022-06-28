@@ -1,10 +1,6 @@
 ---
-# change Empty Template and empty-template below
 layout: page
-title: Empty Template
-# uncomment these if needed
-# subheadline: Empty Template
-# teaser: "Empty Template."
+title: HPC Task Force
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/hpc-task-force/"
@@ -14,8 +10,6 @@ tags:
     - design
     - background color
     - header
-#header:
-    #background-color: "#186F4D"
 header:
     title: "HPC <br> Task Force"
     background-color: "#186F4D;"
@@ -26,3 +20,4 @@ header:
 
 ---
 
+stuff
