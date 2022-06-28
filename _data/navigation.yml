@@ -28,18 +28,14 @@
   - title: "ESiWACE"
     url: "/esiwace"
 
-- title: "Dissemination"
-  url: "/dissemination/"
+- title: "ENES Community Workshops"
+  url: "/workshops/"
   side: left
   dropdown:
-  - title: "Deliverables and Milestones"
-    url: "/deliverables-milestones/"
-  - title: "Publications"
-    url: "/publications-table/"
-  - title: "Presentations and Posters"
-    url: "/presentations-posters/"
-  - title: "Lectures Tutorials Webinars"
-    url: "/lectures-tutorials-webinars/"
+  - title: "HPC Workshops"
+    url: "/hpc-workshops/"
+  - title: "Coupling Workshops"
+    url: "/coupling-workshops/"
 
 - title: "Search"
   url: "/search/"
