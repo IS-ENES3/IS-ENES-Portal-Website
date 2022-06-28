@@ -29,6 +29,8 @@ widget3:
 
 ---
 
+# Research Infrastructure
+## Subheader
 
 Some text describing the infra with schema (add schema) (all this stuff is
 above the widgets).
