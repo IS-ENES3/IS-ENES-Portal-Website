@@ -1,5 +1,5 @@
 ---
-layout: frontpage  # page-fullwidth
+layout: frontpage2  # page-fullwidth
 title: Research Infrastructure
 header:
    image_fullwidth: "header_homepage_13.jpg"
