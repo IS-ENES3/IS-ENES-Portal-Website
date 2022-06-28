@@ -2,7 +2,7 @@
 
 - name: "Contact"
   url: "/contact/"
-  title: "ISENES3 contact"
+  title: "ENES contact"
 
 - name: "Mailinglist"
   url: "https://lists.enes.org/mailman/listinfo/is-enes3"
@@ -10,4 +10,4 @@
 
 - name: "Privacy Policy"
   url: "/privacy/"
-  title: "ISENES3 privacy policy"
+  title: "ENES privacy policy"
