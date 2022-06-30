@@ -21,7 +21,7 @@ header:
 
 ### The infrastructure strategy for ENES 2012-2022: mid-term update 2017
 
-*Joussaume S., Lawrence B. and Guglielmo F. (2017), Update of the ENES infrastructure strategy 2012-2022, ENES Report Series 2, 20 pp.*
+*[Joussaume S., Lawrence B. and Guglielmo F. (2017), Update of the ENES infrastructure strategy 2012-2022, ENES Report Series 2, 20 pp.](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/ENES_strategy_update_2017.pdf)*
 
 The second phase of IS-ENES, the **IS-ENES2 project**, started implementing the ENES infrastructure recommendations and updated the 2012 document (see below) with an analysis of drivers and infrastructure components in the context of 2017. This effort confirms previous recommendations with partial reformulations based on a combination of progress and evolving requirements and provides guidance on scientific evaluation of models and emphasizes the need to organizationally tackle the sustainability challenge.
 
@@ -47,7 +47,7 @@ The **2017 recommendations** are:
 
 ### The infrastructure strategy for ENES 2012-2022
 
-*Mitchell J., Budich R., Joussaume S., Lawrence B. and Marotzke J.  (2012), Infrastructure strategy for the European Earth System Modelling community 2012-2022, ENES Report Series 1, 33 pp.  https://doi.org/10.5285/ca90b281d6ff4cffb9a9bbdeb5fa63f3.*
+*[Mitchell J., Budich R., Joussaume S., Lawrence B. and Marotzke J.  (2012), Infrastructure strategy for the European Earth System Modelling community 2012-2022, ENES Report Series 1, 33 pp.  https://doi.org/10.5285/ca90b281d6ff4cffb9a9bbdeb5fa63f3.](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/ENES_foresight.pdf)*
 
 In 2012, ENES published its infrastructure strategy (IS-ENES project) for the decade to come to support European climate research for seasonal to centennial climate predictions. This research also provides the scientific basis for climate services.
 
