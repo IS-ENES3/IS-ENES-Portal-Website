@@ -18,7 +18,6 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 ---
 
-### Objectives 
 
 Global climate models are at the base of climate change science. They enable the community to provide to decision-makers and a large range of users much demanded information on climate and future, especially man-made, climate change.  Within Europe, the European Network for Earth System Modelling gathers together the European climate/Earth System Modelling community, which is working on the understanding and the prediction of future climate change. This community is strongly involved in the assessments of the Intergovernmental Panel on Climate Change (IPCC) and provides those predictions, on which EU mitigation and adaptation policies are elaborated.
 
