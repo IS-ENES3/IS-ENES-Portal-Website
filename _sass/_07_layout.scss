@@ -58,7 +58,6 @@ body.video cite { color: #fff; }
 
 /* Search
 ------------------------------------------------------------------- */
-
 .no-js form#search {
   display: none;
 }
@@ -76,10 +75,11 @@ body.video cite { color: #fff; }
 }
 #masthead-with-text {
     text-align: center;
-    font-size: rem-calc(54);
+    // font-size: rem-calc(54);  // original
+    font-size: rem-calc(45);
     font-family: $header-font-family;
     color: #fff;
-    text-transform: uppercase;
+    // text-transform: uppercase;  // original uncommented out
     text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
@@ -93,8 +93,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$small-only} {
+    // tryMobile
     #logo img {
-        display: none;
+        margin-top: 30px;
+    //    display: none;
     }
     #masthead {
         height: 200px;
@@ -106,13 +108,13 @@ body.video cite { color: #fff; }
         padding: 15px 0;
     }
     #masthead-with-text {
-        height: 220px;
-        padding: 30px 0;
+        height: 140px; // original 220px
+        padding: 20px 0;  // original 30px
         font-size: rem-calc(36);
     }
-    #masthead-no-image-header {
-        display: none;
-    }
+    //#masthead-no-image-header {
+    //    display: none;
+    //}
 }
 
 
@@ -133,8 +135,8 @@ body.video cite { color: #fff; }
         padding: 20px 0;
     }
     #masthead-with-text {
-        padding: 60px 0;
-        height: 300px;
+        padding: 40px 0;  // original 60px
+        height: 200px;  // original 300px
     }
 }
 
@@ -156,8 +158,8 @@ body.video cite { color: #fff; }
         padding: 30px 0;
     }
     #masthead-with-text {
-        height: 330px;
-        padding: 60px 0;
+        height: 200px;  // original 330px
+        padding: 65px 0;  // original 60px
     }
 }
 
@@ -179,8 +181,8 @@ body.video cite { color: #fff; }
         padding: 45px 0;
     }
     #masthead-with-text {
-        padding: 95px 0;
-        height: 400px;
+        padding: 65px 0;  // original 95px
+        height: 200px;  // original 400px
     }
 }
 
