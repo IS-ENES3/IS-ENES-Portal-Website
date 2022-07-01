@@ -28,5 +28,5 @@ Number  | Name
 3 | [CW2015 Manchester](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2015)
 4 | [CW2017 Princeton](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2017)
 5 | [CW2020 Virtual](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2020)
-- | [International Working Committee on Coupling Technologies](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#IWCCW)
+[International Working Committee on Coupling Technologies](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#IWCCW)
 
