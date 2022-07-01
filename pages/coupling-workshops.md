@@ -17,9 +17,7 @@ header:
 
 ---
 
-Coupling Technologies for Earth System Models Workshops
-
-This series of workshops brings together leading researchers and practitioners in the field of coupling infrastructure for Earth System Models. Topics include, among others: latest developments of coupling technologies, use of coupling technologies in Earth System Models, and performance of couplers and coupled applications. The series started in 2010 in Toulouse and since then a workshop is organised every 2 or 3 years, alternatively in Europe and in the USA.
+This series of workshops brings together leading researchers and practitioners in the field of coupling infrastructure for Earth System Models. Topics include, among others: latest developments of coupling technologies, use of coupling technologies in Earth System Models, and performance of couplers and coupled applications. The series started in 2010 in Toulouse and since then a workshop is organised every 2 or 3 years, alternatively in Europe and in the USA, with support from IS-ENES projects. 
 
 Number  | Name
 :------:|:-----:
