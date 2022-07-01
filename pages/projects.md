@@ -33,7 +33,7 @@ The ENES community is working together since 2000s within Science and Infrastruc
 Title	| Description | Leading Institute | Project Start | Project End
 :-------: | :---------: | :-----------:|:----------------:|:----------------:
 
-[ESM2025]() | Earth system models for the future | MF-CNRM (France) |  Jun 01, 2021 | May 31, 2025
+[ESM2025](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esm2025) | Earth system models for the future | MF-CNRM (France) |  Jun 01, 2021 | May 31, 2025
 [NextGEMS]() | Next Generation Earth Modelling Systems | MPG (Germany) Sep 01, 2021 | Aug 31, 2025
 [IS-ENES3]() | InfraStructure for the European Network of Earth System Modelling | CNRS-IPSL (France) | Jan 01, 2019 | Mar 31, 2023
 [ESiWACE2]() | Excellence in Simulation of Weather and Climate in Europe, Phase 2	| DKRZ (Germany) | ECMWF (International) | Jan 01, 2019 | Dec 31, 2022
