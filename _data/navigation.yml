@@ -6,10 +6,10 @@
   url: "/about-enes/"
   side: left
   dropdown:
-  - title: "Objectives"
-    url: "/objectives/"
-  - title: "Partners"
-    url: "/partners/"
+  - title: "Missions"
+    url: "/missions/"
+  - title: "Members"
+    url: "/members/"
   - title: "Projects"
     url: "/projects/"
   - title: "HPC Task Force"
