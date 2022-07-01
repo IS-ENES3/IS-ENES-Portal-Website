@@ -23,7 +23,6 @@ This series of workshops brings together leading researchers and practitioners i
 
 Number  | Name
 :------:|:-----:
-
 1 | [CW2010 Toulouse](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2010)
 2 | [CW2013 Boulder](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2013)
 3 | [CW2015 Manchester](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2015)
