@@ -17,7 +17,7 @@ header:
 
 ---
 
-This series of workshops brings together leading internationa researchers and practitioners on the topic of provisioning and using HPC Earth System Models.
+This series of workshops brings together leading international researchers and practitioners on the topic of provisioning and using HPC for Earth System Models. Launched in 2011 by IS-ENES, it has, since then, been supported by IS-ENES and/or ESiWACE projects.  
 
 Number | Name
 :------:|:-----:
