@@ -24,15 +24,21 @@ homepage: true
 ---
 
 ## Welcome to the ENES Portal
-### Infrastructure for the European Network for Earth System Modelling (2019 - 2022)
 
-IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES).
+### The European Network for Earth System Modelling
 
-The project fosters collaboration between twenty-two European climate research institutions.
+The European Network for Earth System modelling, ENES, was launched in 2001. It gathers ~ 50 groups from the academic, public, and industrial world and is the initiator of many projects and initiatives in the field of European Earth system modeling.
 
-The community aims to develop a better understanding of past and present-day climate and to project future variability and changes through the development and sharing of model components, modelling tools and data infrastructure.
+Upon the establishment of the network and in the following years, several institutions including university departments, research centres, meteorological services, computer centres, and industrial partners, agreed to work together and cooperate (see Memorandum of Understanding) to discuss strategies to accelerate progress in climate and Earth system modelling and understanding.
 
-The IS-ENES3 three main objectives are to: 
-- Foster collaboration among the modelling groups to speed-up the development and use of models of the complex Earth’s climate system, namely “Earth System models” (ESMs)
-- Deliver common strategies for the research infrastructure
-- Disseminate model data
+ENES aims to:
+1.	Help in the development and evaluation of state-of-the-art climate and Earth system models,
+2.	Facilitate focused model intercomparisons in order to assess and improve these models,
+3.	Encourage exchanges of software and model results, 
+4.	Help in the development of high-performance computing facilities dedicated to long high-resolution, multi-model ensemble integrations.
+
+This portal, established and maintained by IS-ENES (Infrastructure for ENES), aims to provide the European Earth system modeling community with information on ENES projects in the field of climate and Earth system modeling. 
+
+It also provides information on where to access key data and software resources of the ENES Research Infrastructure. These services are provided through the IS-ENES projects, complemented by ESIWACE services focusing on enhancing performance on High-performance computers. 
+
+
