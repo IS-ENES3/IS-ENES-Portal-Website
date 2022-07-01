@@ -27,18 +27,11 @@ homepage: true
 
 ### The European Network for Earth System Modelling
 
-The European Network for Earth System modelling, ENES, was launched in 2001. It gathers ~ 50 groups from the academic, public, and industrial world and is the initiator of many projects and initiatives in the field of European Earth system modeling.
+The European Network for Earth System modelling, ENES, was launched in 2001. It gathers the community working on Earth’s climate system modelling with the aim to accelerate progress in this field. This community is strongly involved in the assessments of the Intergovernmental Panel on Climate Change (IPCC) and provides those predictions, on which EU mitigation and adaptation policies are elaborated.
 
-Upon the establishment of the network and in the following years, several institutions including university departments, research centres, meteorological services, computer centres, and industrial partners, agreed to work together and cooperate (see Memorandum of Understanding) to discuss strategies to accelerate progress in climate and Earth system modelling and understanding.
+This portal, established and maintained by IS-ENES (Infrastructure for ENES), aims to provide information on ENES projects. 
 
-ENES aims to:
-1.	Help in the development and evaluation of state-of-the-art climate and Earth system models,
-2.	Facilitate focused model intercomparisons in order to assess and improve these models,
-3.	Encourage exchanges of software and model results, 
-4.	Help in the development of high-performance computing facilities dedicated to long high-resolution, multi-model ensemble integrations.
+It also provides information on ENES research infrastructure. Services are provided through the IS-ENES providing access to key model data and software, complemented by ESIWACE projects with services on enhancing performance on High-performance computers. 
 
-This portal, established and maintained by IS-ENES (Infrastructure for ENES), aims to provide the European Earth system modeling community with information on ENES projects in the field of climate and Earth system modeling. 
-
-It also provides information on where to access key data and software resources of the ENES Research Infrastructure. These services are provided through the IS-ENES projects, complemented by ESIWACE services focusing on enhancing performance on High-performance computers. 
 
 
