@@ -38,7 +38,7 @@ Discussions from this workshop resulted in a review paper on the state of the ar
 The Third Workshop on Coupling Technologies for Earth System Models (CW2015) was held on the **20th-22nd of April, 2015** at the [Manchester Art Gallery](https://manchesterartgallery.org/) in Manchester, U.K.
 
 - **[Program](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2015-Program.pdf)**
-- **[List of participants]((https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2015-attendees.pdf)**
+- **[List of participants](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2015-attendees.pdf)**
 - **[Paper in BAMS](https://journals.ametsoc.org/view/journals/bams/97/3/bams-d-15-00239.1.xml)**: Sharing Experiences and Outlook on Coupling Technologies for Earth System Models
 
 The workshop aims to bring together leading researchers and practitioners in the field of coupling infrastructure for Earth System models. This workshop is the third in a series, the first being held at CERFACS in December 2010 and the second at NCAR in February 2013. Topics relevant to the workshop include, but are not limited to:
