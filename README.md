@@ -1,3 +1,6 @@
+[![Build and Deployment](https://github.com/IS-ENES3/IS-ENES-Portal-Website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IS-ENES3/IS-ENES-Portal-Website/actions/workflows/pages/pages-build-deployment)
+[![Check Links](https://github.com/IS-ENES3/Tests/actions/workflows/check_links_enes_portal-site.yml/badge.svg)](https://github.com/IS-ENES3/Tests/actions/workflows/check_links_enes_portal-site.yml)
+
 # ISENES3 Portal Website
 
 This site (see deployment at https://is-enes3.github.io/IS-ENES-Portal-Website/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template.
