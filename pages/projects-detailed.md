@@ -28,9 +28,9 @@ header:
 Project description: 
 The ENSEMBLES project has been supported by the European Commission's 6th Framework Programme as a 5 year Integrated Project from 2004-2009 under the Thematic Sub-Priority "Global Change and Ecosystems".
 About 70 European and International institutions joined efforts to:
-•	Develop an ensemble prediction system for climate change based on the principal state-of-the-art, high resolution, global and regional Earth System models developed in Europe, validated against quality controlled, high resolution gridded datasets for Europe, to produce for the first time, an objective probabilistic estimate of uncertainty in future climate at the seasonal to decadal and longer timescales
-•	Quantify and reduce the uncertainty in the representation of physical, chemical, biological and human-related feedbacks in the Earth System (including water resource, land use, and air quality issues, and carbon cycle feedbacks)
-•	Maximise the exploitation of the results by linking the outputs of the ensemble prediction system to a range of applications, including agriculture, health, food security, energy, water resources, insurance and weather risk management
+- Develop an ensemble prediction system for climate change based on the principal state-of-the-art, high resolution, global and regional Earth System models developed in Europe, validated against quality controlled, high resolution gridded datasets for Europe, to produce for the first time, an objective probabilistic estimate of uncertainty in future climate at the seasonal to decadal and longer timescales
+- Quantify and reduce the uncertainty in the representation of physical, chemical, biological and human-related feedbacks in the Earth System (including water resource, land use, and air quality issues, and carbon cycle feedbacks)
+- Maximise the exploitation of the results by linking the outputs of the ensemble prediction system to a range of applications, including agriculture, health, food security, energy, water resources, insurance and weather risk management
 
 - FP6 contract:  GOCE-CT-2003-505539
 - 68 partners
