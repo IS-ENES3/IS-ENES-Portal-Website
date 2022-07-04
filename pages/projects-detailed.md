@@ -32,9 +32,9 @@ About 70 European and International institutions joined efforts to:
 •	Quantify and reduce the uncertainty in the representation of physical, chemical, biological and human-related feedbacks in the Earth System (including water resource, land use, and air quality issues, and carbon cycle feedbacks)
 •	Maximise the exploitation of the results by linking the outputs of the ensemble prediction system to a range of applications, including agriculture, health, food security, energy, water resources, insurance and weather risk management
 
-FP6 contract:  GOCE-CT-2003-505539
-68 partners
-ENSEMBLES final report: <https://ensembles-eu.metoffice.gov.uk/docs/Ensembles_final_report_Nov09.pdf>
+- FP6 contract:  GOCE-CT-2003-505539
+- 68 partners
+- ENSEMBLES final report: <https://ensembles-eu.metoffice.gov.uk/docs/Ensembles_final_report_Nov09.pdf>
 
 <hr style="border:2px solid gray">
 
@@ -53,9 +53,9 @@ Combining more realistic models and skillful initialization is expected to reduc
 
 COMBINE will make use of the experimental design and of the scenarios proposed for IPCC AR5. Therefore the project will be able to contribute to the AR5, by its relevant research and by the contribution of experiments to the IPCC data archives.
 
-23 partners, 14 countries
-More information at: <https://cordis.europa.eu/project/id/226520> 
-Final report: <https://cordis.europa.eu/docs/results/226520/final1-combine-final-report-2013.pdf>
+- 23 partners, 14 countries
+- More information at: <https://cordis.europa.eu/project/id/226520> 
+- Final report: <https://cordis.europa.eu/docs/results/226520/final1-combine-final-report-2013.pdf>
 
 <hr style="border:2px solid gray">
 
@@ -69,9 +69,9 @@ The central objective of the FP7 EUCLIPSE project is to reduce the uncertainty i
 
 In EUCLIPSE, four distinct communities will work together across a set of integrated work packages over a four-year period: the observational community will provide state-of-the-art measurements from ground- and space-based active and passive remote sensing; the numerical weather prediction community will provide analyses of short timescale model biases induced by cloud processes; the cloud modeling community will provide fine-scale models as an additional tool for understanding cloud behavior in a changing climate; finally, the climate modeling community will synthesize the physical understanding and observational constraints identified by the other communities to improve the representation and assessment of cloud processes in ESMs and so improve the predictive skill of ESMs.
 
-12 partners, 9 countries
-Final report: <https://cordis.europa.eu/docs/results/244/244067/final1-final-report-euclipse-siebesma.pdf> 
-More information at: <https://cordis.europa.eu/project/id/244067>
+- 12 partners, 9 countries
+- Final report: <https://cordis.europa.eu/docs/results/244/244067/final1-final-report-euclipse-siebesma.pdf> 
+- More information at: <https://cordis.europa.eu/project/id/244067>
 
 <hr style="border:2px solid gray">
 
@@ -88,10 +88,10 @@ The improved understanding and seamless predictions will offer better estimates 
 
 SPECS will be, among other things, the glue to coalesce the outcome of previous research efforts that hardly took climate prediction into account. It will ensure interoperability so as to easily incorporate their application in an operational context, provide the basis for improving the capacity of European policy making, industry and society to adapt to near-future climate variations and a coordinated response to some of the GFCS components.
  
-20 partners, 9 countries
-More information at: <https://cordis.europa.eu/project/id/308378>
-Project website: <http://www.specs-fp7.eu/>
-Final report: <https://cordis.europa.eu/docs/results/308/308378/final1-specs-final-report.pdf>
+- 20 partners, 9 countries
+- More information at: <https://cordis.europa.eu/project/id/308378>
+- Project website: <http://www.specs-fp7.eu/>
+- Final report: <https://cordis.europa.eu/docs/results/308/308378/final1-specs-final-report.pdf>
 
 
 ### <a name="embrace"></a>EMBRACE (11/2011 – 02/2016)
@@ -104,8 +104,8 @@ Project description:
 EMBRACE brings together the leading Earth System Models (ESMs) in Europe around a common set of objectives to improve our ability to (i) simulate the Earth System and (ii) make reliable projections of future global change. EMBRACE builds on the existing European collaboration network in Earth System Modelling and will be the main European input to international efforts in this field over the coming 5 years. The project has a number of key goals; (i) to reduce the main, known biases in existing European ESMs, (ii) to fully evaluate ESM simulation capabilities and improvements made in the project, (iii) to increase the realism of, and interactions between, the physical and biogeochemical components of ESMs, (iv) to assess the risks of abrupt or irreversible changes in key components of the Earth system, in response to the most recent greenhouse gas, aerosol and land-use scenarios proposed for the IPCC AR5.
 The primary ESM biases targeted for improvement include, (i) the representation of moist atmospheric convection and links to coupled tropical variability and precipitation. (ii) equatorial and coastal ocean upwelling and their impact on the global climate system and carbon cycle, (iii) coupled processes controlling physical and biogeochemical mixing in the Southern ocean, (iv) soil hydrology and its coupling with the atmosphere and (v) the terrestrial carbon cycle, through a more realistic treatment of climate-vegetation interaction. Improvements will be evaluated in the context of the full range of CMIP5 historical simulations, with the CMIP5 protocol forming the basis for future climate projections made to assess the risk of abrupt changes. A cross-cutting theme will be the impact of improved process description, combined with increased coupled model resolution, in reducing ESM biases and improving their reliability of future projections.
 
-14 partners, 9 countries
-More information at: <https://cordis.europa.eu/project/id/282672>
+- 14 partners, 9 countries
+- More information at: <https://cordis.europa.eu/project/id/282672>
 
 <hr style="border:2px solid gray">
 
@@ -121,9 +121,9 @@ The concept of model fidelity is central to PRIMAVERA, and its foundations are i
 
 Many years of experience, first in numerical weather prediction and, equally albeit only recently, in climate simulation, have demonstrated that advances in the explicit simulation of key processes are essential to achieving sustained progress and to provide robust answers. High-resolution has been identified as one essential element of the development of GCMs to reproduce key climate processes with higher fidelity than conventional GCMs, thus enabling detailed process understanding.
 
-21 partners, 9 countries
-More information at: <https://cordis.europa.eu/project/id/641727> 
-Project website: <https://www.primavera-h2020.eu/>
+- 21 partners, 9 countries
+- More information at: <https://cordis.europa.eu/project/id/641727> 
+- Project website: <https://www.primavera-h2020.eu/>
 
 <hr style="border:2px solid gray">
 
@@ -136,8 +136,8 @@ Project website: <https://www.primavera-h2020.eu/>
 Project summary
 CRESCENDO brings together seven Earth System Modelling (ESM) groups with three Integrated Assessment Modelling teams, as well as experts in ESM evaluation, ESM projection and feedback analysis, climate impacts and science communication to address the following goals; (i) improve the process-realism and simulation-quality of European ESMs in order to increase the reliability of future Earth system projections; (ii) develop and apply a community ESM evaluation tool allowing routine ESM performance benchmarking, process-based ESM evaluation and the analysis of Earth system projections. The resulting tool will be installed and made openly-available on the Earth System Grid Federation (ESGF); (iii) further develop the discipline of emergent constraints in order to better constrain the representation of key biogeochemical and aerosol feedbacks in ESMs and thereby reduce overall uncertainty in Earth system projections; (iv) quantify the effective radiative forcing of key biogeochemical and aerosol feedbacks in ESM projections; (v) contribute to the development of a new set of combined socio-economic and climate emission scenarios that more explicitly link future socio-economic development pathways with global radiative forcing; (vi) apply the project ESMs to these new scenario data to generate an ensemble of Earth system projections for the coming century and, in combination with the underlying socio-economic scenarios, use these projections to assess joint risks and co-benefits related to climate change, climate impacts, adaptation and mitigation; (vii) ensure data produced by CRESCENDO is available to the international community through timely archival on the ESGF and work closely with climate impact assessment and regional downscaling teams to ensure maximum uptake and use of these data in such complementary areas of science; (viii) actively disseminate knowledge generated in CRESCENDO to fellow scientists, policymakers and the general public.
 
-25 partners, 10 countries
-More information at : <https://cordis.europa.eu/project/id/641816>
+- 25 partners, 10 countries
+- More information at : <https://cordis.europa.eu/project/id/641816>
 
 <hr style="border:2px solid gray">
 
@@ -156,9 +156,9 @@ The Climateurope Action will coordinate and support Europe’s knowledge base to
 
 This CSA will deliver a range of highly beneficial impacts. Two key impacts are (i) to greatly enhance the transfer of information between suppliers and users to improve the resilience of European society to climate change and mitigation of the risk of dangerous climate change; and (ii) to improve coordination to increase efficiency, reduce fragmentation and create synergies with international R&I programmes.
 
-11 partners, 8 countries
-More information at: <https://cordis.europa.eu/project/id/689029> 
-Project  website: <https://www.climateurope.eu/>
+- 11 partners, 8 countries
+- More information at: <https://cordis.europa.eu/project/id/689029> 
+- Project  website: <https://www.climateurope.eu/>
 
 <hr style="border:2px solid gray">
 
@@ -170,9 +170,9 @@ Project  website: <https://www.climateurope.eu/>
 
 EU-funded ESM2025 is an ambitious European research project on Earth system numerical modelling that will focus on the representation of interactions and couplings between Earth system model (ESM) components to improve key climate processes and better represent the full Earth system response to anthropogenic emissions and land-use change. ESM2025 will also take a step forward in providing relevant climate simulations for the development of ambitious and realistic mitigation and adaptation strategies in line with the Paris Agreement, by improving the physical coherence of climate and mitigation processes in ESMs and integrated assessment models. Expected project results will support international climate assessment reports (e.g. IPCC), climate change mitigation policy, climate change adaptation and local and national decision-making.
 
-20 partners, 9 countries
-More information at: <https://cordis.europa.eu/project/id/101003536> 
-Project website: <https://www.esm2025.eu/>
+- 20 partners, 9 countries
+- More information at: <https://cordis.europa.eu/project/id/101003536> 
+- Project website: <https://www.esm2025.eu/>
 
 <hr style="border:2px solid gray">
 
@@ -184,9 +184,9 @@ Project website: <https://www.esm2025.eu/>
 
 A changing climate means a greater understanding is needed of the risk posed by global warming to society and ecosystems. The EU-funded NextGEMS project will address this challenge by developing and applying a new generation of global coupled storm-resolving Earth system models (SR-ESMs) for use in the ocean or atmosphere. SR-ESMs feature a fine grid of 3 km to give a more detailed picture of atmospheric and oceanic circulation systems, including their coupling to Earth-system processes such as the carbon, nutrients, water, and atmospheric particulate (aerosol) cycles. Consortium members will develop two prototypes SR-ESMs capable of generating 30-year projections of future climate change and maintaining Europe's position at the forefront of Earth-system modelling.
 
-26 partners, 14 countries
-More information at: <https://cordis.europa.eu/project/id/101003470> 
-Project website: <https://nextgems-h2020.eu/>
+- 26 partners, 14 countries
+- More information at: <https://cordis.europa.eu/project/id/101003470> 
+- Project website: <https://nextgems-h2020.eu/>
 
 <hr style="border:2px solid gray">
 
@@ -205,9 +205,9 @@ The PRISM activities are organised around five areas of expertise: Code Coupling
  
 Resulting tools on Integration & Modelling Environments include: PRISM Standard Compile Environment (SCE); PRISM Standard Run Environment (SRE);  Corporate Infrastructure Services: prepIFS (a flexible User Interface framework that allows tailored graphical user interfaces to be built for the configuration of models and other software); and Corporate Infrastructure Services: SMS Supervisor Monitoring Scheduler.
 
-22 partners, 10 countries
-More information at: <https://cordis.europa.eu/project/id/EVR1-CT-2001-40012> 
-Some PRISM reports are available on DKRZ website
+- 22 partners, 10 countries
+- More information at: <https://cordis.europa.eu/project/id/EVR1-CT-2001-40012> 
+- Some PRISM reports are available on DKRZ website
 
 <hr style="border:2px solid gray">
 
@@ -227,8 +227,8 @@ ENES helped establish the FP7 METAFOR project. European and international Instit
 
 The Metafor project is no longer active. Work on the Common Information Model is continuing under the ES-DOC collaboration, including services for searching and comparing CIM metadata within the IS-ENES projects.
 
-11 partners, 5 countries
-More information at: <https://cordis.europa.eu/project/id/211753> 
+- 11 partners, 5 countries
+- More information at: <https://cordis.europa.eu/project/id/211753> 
 
 <hr style="border:2px solid gray">
 
@@ -247,10 +247,10 @@ IS-ENES combines expertise in Earth system modelling, in computational science, 
 
 IS-ENES will use the standards developed by the FP7 ENES METAFOR project "Common Metadata for Climate Modelling Digital repositories".
 
-18 partners, 10 countries
-More information at: <https://cordis.europa.eu/project/id/228203>
-Project archived website available at: <https://is.enes.org> 
-Final report : 
+- 18 partners, 10 countries
+- More information at: <https://cordis.europa.eu/project/id/228203>
+- Project archived website available at: <https://is.enes.org> 
+- Final report : <https://is-enes3.github.io/IS-ENES-Website/isenes-phase-1-final-report/>
 
 <hr style="border:2px solid gray">
 
@@ -269,10 +269,10 @@ IS-ENES2 implements the ENES strategy published in 2012 by: extending its servic
 
 IS-ENES2 combines expertise in climate modelling, computational science, data management and climate impacts. The central point of entry to IS-ENES2 services, the ENES Portal, integrates information on the European climate models and provides access to models and software environments needed to run and exploit model simulations, as well as to simulation data, metadata and processing utilities. Joint research activities improve the efficient use of high-performance computers and enhance services on models and data. Networking activities increase the cohesion of the European ESM community and advance a coordinated European Network for Earth System modelling.
 
-23 partners, 11 countries
-More information at: <https://cordis.europa.eu/project/id/312979>
-Project archived website available at: <https://is.enes.org> 
-Final report: 
+- 23 partners, 11 countries
+- More information at: <https://cordis.europa.eu/project/id/312979>
+- Project archived website available at: <https://is.enes.org> 
+- Final report: <https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-final-report/>
 
 <hr style="border:2px solid gray">
 
@@ -289,9 +289,9 @@ IS-ENES3 will stimulate collaboration, disseminate software and data, and furthe
 
 IS-ENES3 will be delivered by partners combining expertise in climate modelling, computational science, data management, climate impacts and climate services, with proven ability to increase the influence of European science internationally. It will deliver the European part of the Earth System Grid Federation and a central point of entry to services providing access to new data, software, models and tools. Joint research will support a new community sea ice model, promote efficient use of high-performance computing, improve the European common model evaluation framework, and develop and enhance services on data. Networking will grow the user base, increase the cohesion of the climate modelling community, promote innovation and prepare for a long-term sustainable infrastructure in support of climate modelling.
 
-22 partners, 11 countries
-More information at: <https://cordis.europa.eu/project/id/824084> 
-Project website: <https://is.enes.org>
+- 22 partners, 11 countries
+- More information at: <https://cordis.europa.eu/project/id/824084> 
+- Project website: <https://is.enes.org>
 
 <hr style="border:2px solid gray">
 
@@ -309,9 +309,9 @@ the world leading European Centre for Medium-Range Weather Forecasts (ECMWF) (ht
 
 By developing solutions for Europe and at European scale, ESiWACE will directly impact on the competitiveness of the European HPC industry by engendering new products, providing opportunities for exploitation beyond the project itself, and by enhancing the skills base of staff in both industry and academia. ESiWACE will be at once thematic, as it focuses on the HPC application domain of climate and weather modeling, transversal, as it covers several aspects of computational science, and challenge-driven, as climate and weather predictability represent a major societal issue.
 
-14 partners, 7 countries
-More information at: <https://cordis.europa.eu/project/id/675191> 
-Project website: <https://www.esiwace.eu/the-project/hpc-landscape/esiwace-1> 
+- 14 partners, 7 countries
+- More information at: <https://cordis.europa.eu/project/id/675191> 
+- Project website: <https://www.esiwace.eu/the-project/hpc-landscape/esiwace-1> 
 
 <hr style="border:2px solid gray">
 
@@ -328,9 +328,9 @@ To achieve this goal, ESiWACE2 will (a) improve throughput and scalability of le
 
 ESiWACE2 will deliver configurations of leading models that can make efficient use of the largest supercomputers in Europe and run at unprecedented resolution for high-quality weather and climate predictions. This will be a beacon for the community in Europe and around the world. ESiWACE2 will develop HPC benchmarks, increase flexibility to use heterogeneous hardware and co-design and provide targeted education and training for one of the most challenging applications to shape the future of HPC in Europe.
 
-20 partners, 9 countries
-More information at : <https://cordis.europa.eu/project/id/823988>
-Project website: <https://www.esiwace.eu/> 
+- 20 partners, 9 countries
+- More information at : <https://cordis.europa.eu/project/id/823988>
+- Project website: <https://www.esiwace.eu/> 
 
 <hr style="border:2px solid gray">
 
@@ -347,9 +347,9 @@ Although those user requirements will vary between scientific disciplines, the m
 
 ENES is involved in EUDAT through the participation of DKRZ and CERFACS. 
 
-29 partners
-More information at: <https://cordis.europa.eu/project/id/283304>
-Project website: <https://www.eudat.eu/projects/eudat> 
+- 29 partners
+- More information at: <https://cordis.europa.eu/project/id/283304>
+- Project website: <https://www.eudat.eu/projects/eudat> 
 
 <hr style="border:2px solid gray">
 
@@ -366,7 +366,7 @@ ENVRIPLUS organizes its activities along a main strategic plan where sharing mul
 
 IS-ENES (phase 2 and later phase 3), the infrastructure project of ENES, is a member of ENVRIplus and shares (via its partners CNRS and DKRZ) technical and strategic expertise with the other Research Infrastructures by contributing to ENVRIplus Themes 2 (Data for Science) and 6 (Communication and Dissemination) as well as by having representatives in the Board of European Environmental Research Infrastructures.
 
-39 partners, 13 countries
-More information at: <https://cordis.europa.eu/project/id/654182> 
-Project website: <https://www.envriplus.eu/> 
+- 39 partners, 13 countries
+- More information at: <https://cordis.europa.eu/project/id/654182> 
+- Project website: <https://www.envriplus.eu/> 
 
