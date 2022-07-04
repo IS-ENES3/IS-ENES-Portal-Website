@@ -353,7 +353,7 @@ ENES is involved in EUDAT through the participation of DKRZ and CERFACS.
 
 <hr style="border:2px solid gray">
 
-### <a name="envriplus"></a>ENVRI-Plus 05/2015 – 07/2019
+### <a name="envriplus"></a>ENVRI-Plus (05/2015 – 07/2019)
 
 **Research Infrastructures Providing Shared Solutions for Science and Society**
 
