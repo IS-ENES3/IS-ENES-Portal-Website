@@ -26,6 +26,5 @@ widget2:
 ---
 
 # ENES Community Workshops
-## Subheader
 
-Some text describing the workshoppesess :))
+Community workshops are important to share expertise and advance Earth system modelling. Two series of workshops have been supported, one on coupling technologies and the other on high-performance computing for Earth system modelling. Other workshops are available on the project websites. 
