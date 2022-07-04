@@ -22,31 +22,55 @@ header:
 
 ---
 
-Vi: I left the IS-ENES3 partners here since they may be the same for the ENES consortium?
+In the course of the years 2001, 2002, and 2005, several European university departments, research centres, meteorological services, computer centres, and industrial partners engaged in the creation of ENES with the purpose of working together and cooperating towards the further development of the network, by signing a [Memorandum of Understanding (MoU)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/ENESMoU.pdf).
 
-**The Consortium comprises 22 partners from 11 countries:**
+### Partners (Signees of the ENES MoU)
 
-Partner Number  | Organization Name | Acronym | Country
-:--------------:|:-----------------:|:-------:|:-------:
-1 - Coordinator | [Centre National de la Recherche Scientifique](https://valeriupredoi.github.io/partners-detailed#cnrs-ipsl) | CNRS-IPSL | France
-2 | [The University of Reading](https://valeriupredoi.github.io/partners-detailed#uread) | UREAD-NCAS | United Kingdom
-3 | [Deutsches Klimarechenzentrum GmbH](https://valeriupredoi.github.io/partners-detailed#dkrz) | DKRZ | Germany
-4 | [Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique](https://valeriupredoi.github.io/partners-detailed#cerfacs) | CERFACS | France
-5 | [The Met Office](https://valeriupredoi.github.io/partners-detailed#metoffice) | MET OFFICE | United Kingdom
-6 | [Barcelona Supercomputing Centre](https://valeriupredoi.github.io/partners-detailed#bsc) | BSC | Spain
-7 | [Koninklijk Nederlands Meteorologisch Instituut](https://valeriupredoi.github.io/partners-detailed#knmi) | KNMI | Netherlands
-8 | [Centro Euro-Mediterraneo per i Cambiamenti Climatici](https://valeriupredoi.github.io/partners-detailed#cmcc) | CMCC | Italy
-9 | [United Kingdom of Research and Innovation](https://valeriupredoi.github.io/partners-detailed#ukri) | UKRI | United Kingdom
-10 | [Sveriges Meteorologiska och Hydrologiska Institut](https://valeriupredoi.github.io/partners-detailed#smhi) | SMHI | Sweden
-11 | [Deutsches Zentrum Für Luft- und Raumfahrt in der Helmholtz Gemeinschaft](https://valeriupredoi.github.io/partners-detailed#dlr) | DLR | Germany
-12 | [Stichting Netherlands eScience Center](https://valeriupredoi.github.io/partners-detailed#nlesc) | NLeSC | Netherlands
-13 | [Universidad de Cantabria](https://valeriupredoi.github.io/partners-detailed#uc) | UC | Spain
-14 | [Norwegian Meteorological Institute](https://valeriupredoi.github.io/partners-detailed#metnorway) | Met Norway | Norway
-15 | [Météo France - Centre National de Recherches Météorologiques](https://valeriupredoi.github.io/partners-detailed#mf) | MF-CNRM | France
-16 | [University of Manchester](https://valeriupredoi.github.io/partners-detailed#uniman) | UNIMAN | United Kingdom
-17 | [National Centre of Scientific Research "Demokritos"](https://valeriupredoi.github.io/partners-detailed#ncsr) | NCSR-D | Greece 
-18 | [Stichting Wageningen Research, Wageningen Environmental Research](https://valeriupredoi.github.io/partners-detailed#wenr) | WENR | Netherlands
-19 | [Charles University](https://valeriupredoi.github.io/partners-detailed#cuni) | CUNI | Czech Republic
-20 | [Faculty of Physics of the University of Belgrade](https://valeriupredoi.github.io/partners-detailed#fpub) | FPUB | Serbia
-21 | [NORCE Norwegian Research Centre AS](https://valeriupredoi.github.io/partners-detailed#norce) | NORCE | Norway
-22 | [Linköpings Universitet](https://valeriupredoi.github.io/partners-detailed#liu) | LiU | Sweden
+:--------------:|:----:
+[Sun Microsystems n.v./s.a.](https://www.oracle.com/) | Belgium
+[Université Catholique du Louvain - Institut d'Astronomie et de Géophysique Georges Lemaître](https://uclouvain.be/astr) | Belgium
+[Национален институт по метеорология и хидрология (National Institute of Meteorology and Hydrology)](http://www.meteo.bg/en) | Bulgaria
+Danmarks Meteorologiske Institut | Denmark
+Comparex Holding | Europe
+[Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique](https://cerfacs.fr/en/) | France
+[Institut Pierre-Simon Laplace - Université Pierre et Marie Curie](https://www.ipsl.fr/) | France
+[Meteo-France - Centre National de Recherches Météorologiques](http://www.umr-cnrm.fr/) | France
+[Alfred-Wegener-Institut - Helmholtz-Zentrum für Polar- und Meeresforschung](https://www.awi.de/en.html) | Germany
+[Verein zur Förderung des Deutschen Forschungsnetzes e.V. - DFN-Verein](https://dfn.de/en/) | Germany
+[Deutsches Klimarechenzentrum](https://www.dkrz.de/dkrz-en?set_language=en) | Germany
+[IBM Deutschland GmbH - Scientific and Technical Computing EMEA](https://www.ibm.com/de-de) | Germany
+[Institut für Energie- und Klimaforschung (IEK-8) – Troposphäre - Jülich](https://www.fz-juelich.de/de/iek/iek-8) | Germany
+[Institut für Meereskunde an der Universität Kiel](https://www.geomar.de/en) | Germany
+[Freie Universität Berlin - Institut für Meteorologie](https://www.geo.fu-berlin.de/met/) | Germany
+[Hewlett Packard GmbH](https://www.hp.com/de-de/home.html) | Germany
+[Max-Planck-Gesellschaft - Max-Planck-Institut für Biogeochemie](https://www.bgc-jena.mpg.de/index.php/Main/HomePage) | Germany
+[Max-Planck-Gesellschaft - Max-Planck-Institut für Meteorologie](https://mpimet.mpg.de/en/home.html) | Germany
+[NEC Deutschland GmbH - European Supercomputer Systems](https://de.nec.com/index.html) | Germany
+NEC Europe Ltd. - NEC Laboratories Europe - IT Research Division | Germany
+[Pallas GmbH](https://www.sits-d.de/) | Germany
+[Silicon Graphics GmbH](https://www.hpe.com/us/en/contact-hpe.html) | Germany
+[T-Systems Solutions for Research GmbH](https://www.t-systems.com/de/de) | Germany
+Universität Hamburg - Forschungsstelle Nachhaltige Umweltentwicklung | Germany
+[Konrad-Zuse-Zentrum für Informationstechnik Berlin](https://www.zib.de/) | Germany
+[Aκαδημία Aθηνών - Κέντρον Ερεύνης Φυσικής της Ατμοσφαίρας και Κλιματολογίας (Academy of Athens - Research Centre for Atmospheric Physics and Climatology)](http://www.academyofathens.gr/en) | Greece
+[European Centre for Medium-Range Weather Forecasts](https://www.ecmwf.int/) | International
+[Irish Centre for High-End Computing](https://www.ichec.ie/) | Ireland
+[Istituto Nazionale di Geofisica e Vulcanologia](https://www.ingv.it/) | Italy
+[Centro Euro-Mediterraneo sui Cambiamenti Climatici](https://www.cmcc.it/) | Italy
+[Koninklijk Nederlands Meteorologisch Instituut](https://www.knmi.nl/over-het-knmi/about) | Netherlands
+[Bjerknessenteret for klimaforskning](https://bjerknes.uib.no/en/) | Norway
+[Nansen Environmental and Remote Sensing Center](https://www.nersc.no/) | Norway
+[Uniwersytetu Warszawskiego - Interdyscyplinarne Centrum Modelowania Matematycznego i Komputerowego](https://icm.edu.pl/home) | Poland
+[Academia de Stiinte Tehnice din Romania](http://www.geodin.ro/) | Romania
+[Academia Romana - Institutul de Geodinamica Sabba S. Stefanescu](http://www.geodin.ro/) | Romania
+Institut Català de Ciènces del Clima | Spain
+Universidad de Alcalá - Departamento de Física y Matemáticas | Spain
+[Universitat de Barcelona - Departament d'Astronomia i Meteorologia] | Spain
+[Lunds Universitet - Institutionen för Naturgeografi och ekosystemvetenskap](https://www.nateko.lu.se/) | Sweden	
+[Sveriges meteorologiska och hydrologiska institut](https://www.smhi.se/en/q/Stockholm/2673730) | Sweden
+[Centro Svizzero di Calcolo Scientifico](https://www.cscs.ch/) | Switzerland
+[Scottish Alliance for Geosciences, Environment and Society - Centre for Earth System Dynamics] | United Kingdom
+Cray UK Limited | United Kingdom	
+[Met Office - Hadley Centre](https://www.metoffice.gov.uk/weather/climate-change/what-is-climate-change) | United Kingdom
+[University of East Anglia - Climatic Research Unit - School of Environmental Sciences](https://www.uea.ac.uk/groups-and-centres/climatic-research-unit) | United Kingdom
+[University of Reading - Department of Meteorology - Centre for Global Atmospheric Modelling](https://ncas.ac.uk/environmental-roadmap-to-sustainable-atmospheric-research/) | United Kingdom
