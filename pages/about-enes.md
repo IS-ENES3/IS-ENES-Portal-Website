@@ -18,19 +18,6 @@ header:
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
-
-The European Network for Earth System modelling (ENES) was established in 2001 in response to the 1998 recommendation from the Euroclivar concerted action to:
-
-*“better integrate the European modelling effort with respect to human potential, hardware and software”.*
-
-ENES provides an umbrella organisation for the European climate modelling community working on *“the understanding and prediction of climate variability and change”*. Although centered on the community working with global Earth’s climate system models, it also aims to support the regional climate modelling community, with whom it shares common scientific objectives and issues.
-
-**ENES main aim** is to accelerate progress in Earth’s climate system modelling.  
-
-**ENES members** include university departments, research centres, meteorological services, computer centres, and industrial partners.
-
-Since its start, ENES has initiated several **EU funded projects** in support for science and research infrastructure. 
-
 widget1:
   title: "Missions"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/missions/'
@@ -54,3 +41,15 @@ widget5:
 
 ---
 
+
+The European Network for Earth System modelling (ENES) was established in 2001 in response to the 1998 recommendation from the Euroclivar concerted action to:
+
+*“better integrate the European modelling effort with respect to human potential, hardware and software”.*
+
+ENES provides an umbrella organisation for the European climate modelling community working on *“the understanding and prediction of climate variability and change”*. Although centered on the community working with global Earth’s climate system models, it also aims to support the regional climate modelling community, with whom it shares common scientific objectives and issues.
+
+**ENES main aim** is to accelerate progress in Earth’s climate system modelling.  
+
+**ENES members** include university departments, research centres, meteorological services, computer centres, and industrial partners.
+
+Since its start, ENES has initiated several **EU funded projects** in support for science and research infrastructure. 
