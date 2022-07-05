@@ -300,7 +300,7 @@ Talk on space-time parallelization, *Yvon Maday*
 
 ### <a name="hpc4"></a>[ENES Workshop on High Performance Computing for Climate and Weather](https://www.esiwace.eu/events/4th-hpc-ws), April 2016, Toulouse, France
 
-**Main topics**
+**Main topics:**
 - The European HPC ecosystem;
 - Innovative developments (new dynamical cores, I/Os…) and today high-resolution models;
 - New paradigms (languages, standards, next-generation models …).
@@ -309,7 +309,7 @@ Talk on space-time parallelization, *Yvon Maday*
 
 ### <a name="hpc5"></a>[5th ENES HPC Workshop](https://www.esiwace.eu/events/5th-enes-hpc-workshop/5th-enes-hpc-workshop), May 2017, Lecce, Italy
 
-**Main Topics**
+**Main Topics:**
 - European & international exascale ecosystems (information on the state of the art both at hardware and software level)
 - Very high-resolution modelling and HPC challenges
 - Tools and components
@@ -319,30 +319,34 @@ Talk on space-time parallelization, *Yvon Maday*
 <hr style="border:2px solid gray">
 
 
-### <a name="hpc6"></a>
+### <a name="hpc6"></a>[Virtual 6th HPC workshop](https://www.esiwace.eu/events/6th-hpc-workshop/6th-hpc-workshop), 25-26 & 28-29 May 2020, virtual
 
-**Place**: 
+**Main topics:**
+- Very high-resolution modeling
+- Performance portability
+- Machine learning for parameterization schemes
+- Challenges in exascale data processing and visualization
 
-**Venue**: 
-
-**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
 <hr style="border:2px solid gray">
 
 
-### <a name="hpc7"></a>
+### <a name="hpc7"></a>7th ENES HPC Workshop, 9-11 May 2022, hybrid event
 
-**Place**: 
+**Place**: Barcelona, Spain
 
-**Venue**: 
+**Venue**: Barcelona Supercomputing Center, Barcelona, Spain
 
-**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+[IS-ENES3](https://is.enes.org/) organises this workshop of the European Network for Earth System modelling (ENES) in collaboration with [ESiWACE2](https://esiwace.eu/). It will gather experts on HPC in earth system modelling at an hybrid event. A streaming service for remote participants (including speakers) will be available but after those 2 years of very scarce social interactions due to the pandemic, we strongly encourage everyone to travel and physically attend the workshop.
+Building on the previous ENES HPC workshops (Lecce, 2011 & 2018; Toulouse, 2013 & 2016; Hamburg, 2014 & 2020), the talks are structured around the 5 following topics:
+
+- European and International HPC Landscape
+- Mix traditional modeling with Machine Learning 
+- Performance
+- Heterogeneous architectures (accelerators)
+- Data Worflows
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_agenda.pdf) & PRESENTATIONS**
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
 
