@@ -172,24 +172,89 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 [A review of the main coupling technologies used in the climate modelling community](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Valcke.pdf) by Sophie Valcke (CERFACS, FR)
 
 
-**[Session 7 – Long-term strategic issues](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session7.pdf)** 
-
+**[Session 7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session7.pdf) – Long-term strategic issues**
 
 
 ---
 
 ### <a name="hpc3"></a>
+
+**Place**: 
+
+**Venue**: 
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
 ---
 
 
 ### <a name="hpc4"></a>
+
+**Place**: 
+
+**Venue**: 
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
 ---
 
 ### <a name="hpc5"></a>
+
+**Place**: 
+
+**Venue**: 
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
 ---
 
 ### <a name="hpc6"></a>
 
+**Place**: 
+
+**Venue**: 
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+---
 
 ### <a name="hpc7"></a>
+
+**Place**: 
+
+**Venue**: 
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
 ---
