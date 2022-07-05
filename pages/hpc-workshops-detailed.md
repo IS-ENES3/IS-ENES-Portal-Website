@@ -352,11 +352,78 @@ The recordings of the workshop are available on the IS-ENES3 YouTube channel und
 
 **[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_agenda.pdf) & PRESENTATIONS**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+
 
 **Session 1 - European and International Landscape**
+[Strengthening the European HPC communities by addressing the skills and competence level](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Koller.pdf), *Bastian Koller (HLRS, CASTIEL, EuroCC)*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_.pdf) by 
+[Lumi - the first EuroHPC pre-exa system](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Kontkanen.pdf), *Jenni Kontkanen (CSC)*
+
+[ARMing the IFS: Experiments and experiences from porting the ECMWF model to Fugaku](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Hatfield.pdf), *Samuel Hatfield (ECMWF)*
+
+[Numerical Climate and Weather Modeling on the China Earth System Simulator](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Yu.pdf), *Yongqiang Yu (LASG, Institute of Atmospheric Physics)*
+
+DestinE: opportunities & challenges for digital twins of the Earth System, *Nils Wedi (ECMWF)*
+
+[HPC Challenges for CMIP: lessons from CMIP6 and potential next steps](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Lamarque.pdf), *Jean François Lamarque (NCAR)* 
+
+
+**Session 2 - Mix traditional modeling with ML**
+
+[Machine learning for weather and climate predictions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Dueben.pdf), *Peter Dueben (ECMWF)* 
+
+[High-Tune Explorer: a tool to accelerate model calibration based on process-oriented metrics](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Couvreux.pdf), *Fleur Couvreux (Météo-France)* 
+
+Skilful precipitation nowcasting using deep generative models of radar, *Suman Ravuri (Google Deep Mind)* 
+
+[Fourier Neural Operators for Fast Weather Modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Anandkumar.pdf), *Anima Anandkumar (CalTech & NVIDIA)* 
+
+[Building digital twins of the Earth for NVIDIA’s Earth-2 initiative](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Kashinath.pdf), *Karthik Kashinath (NVIDIA)* 
+
+**Session 3 - Performance**
+
+[CPMIP performance metrics for CMIP6: Lessons, recommendations and next steps](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Acosta.pdf), *Mario Acosta (BSC)* 
+
+[Performance optimization in NEMO ocean model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Epicoco.pdf), *Italo Epicoco (CMCC)* 
+
+[The new load balancing tool in OASIS3-MCT_5.0](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Maisonnave.pdf), *Eric Maisonnave (CERFACS)* 
+
+[The Potential of Functional Concurrency in W&C models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Budich.pdf), *Reinhard Budich (MPI)* 
+
+[PoP Studies of Earth Sciences Codes](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Labarta.pdf), *Jesus Labarta (BSC)* 
+
+[Recent Atlas library developments for Earth system modelling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Deconinck.pdf), *Willem Deconinck (ECMWF)* 
+
+[On the energy costs of data production, data transfer and data storing](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session3_Andre.pdf), *Jean-Claude André (CERFACS)* 
+
+**Session 4 - Heterogeneous architectures (accelerators)**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+
+
+**Session 5 - Workflow**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
 
 
 <hr style="border:2px solid gray">
