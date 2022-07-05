@@ -18,19 +18,29 @@ widget1:
   title: "Strategy"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/strategy/'
   image: Banner_website_IS-ENES3.png
+  text: Documents the ENES research infrastructure strategy
 widget2:
   title: "IS-ENES"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/isenes/'
   image: Banner_website_IS-ENES3.png
+  text: Provides access to datasets from international intercomparison projects
 widget3:
   title: "ESiWACE"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/esiwace/'
   image: Banner_website_IS-ENES3.png
+  text: Provides access to software and services
 
 ---
 
 # Research Infrastructure
 ## Subheader
 
-Some text describing the infra with schema (add schema) (all this stuff is
-above the widgets).
+**Climate modelling depends on a significant amount of infrastructure**: from the models themselves to the computing and data infrastructure. This tripod of models, computing, and data – with all the connecting workflow, network, and tools – needs to be well documented and depends on the central role of people with expertise in climate science, model and software development. 
+
+![schemainfrastructure](../images/schemainfrastructure.png)
+
+**The strategy documents** present the strategy of the ENES research infrastructure. They have been elaborated as part of the IS-ENES projects and encompass recommendations for the different components of ENES research infrastructure. 
+
+**The EU funded IS-ENES projects**, the “*InfraStructure for the European Network for Earth System modelling*”, launched in 2009, aim at further integrating the climate modelling and facilitate access to climate model data from international experiments and to software.  Since 2015, IS-ENES activities are complemented by the **EU funded ESIWACE projects**, the “*Center of Excellence in Simulation for Weather and Climate in Europe*”, with a focus on high-performance computing. 
+
+ENES research infrastructure provides a range of services through its funded projects IS-ENES and ESiWACE. 
