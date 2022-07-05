@@ -16,6 +16,7 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 
 ---
+<hr style="border:2px solid gray">
 
 ### <a name="hpc1"></a>Workshop on dynamical cores for climate models, 14-16 December 2011
 
