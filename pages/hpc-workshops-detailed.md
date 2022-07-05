@@ -32,41 +32,41 @@ The ENES initiative, gathering the European climate modeling community, organize
 
 **AGENDA & PRESENTATIONS**
 
-[Welcome](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_Intro_Giovanni.pptx) by Giovanni Aloisio
+[Welcome](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_Intro_Giovanni.pptx), *Giovanni Aloisio (CMCC, Italy)*
 
-[Workshop Introduction and opening remarks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_Intro_Sylvie.ppt) by Sylvie Joussaume
+[Workshop Introduction and opening remarks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_Intro_Sylvie.ppt), *Sylvie Joussaume (IPSL/CNRS, France)*
 
 **Session 1 - Issues in Climate Modeling**
 
-[High-resolution climate modelling with the Community Earth System Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session1_Dennis.pdf) by John Dennis (NCAR/USA)
+[High-resolution climate modelling with the Community Earth System Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session1_Dennis.pdf), *John Dennis (NCA, USA)*
 
-[Exascale issues in climate model coupling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session1_Jacob.pdf) by Robert Jacob (ANL/USA)
+[Exascale issues in climate model coupling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session1_Jacob.pdf), *Robert Jacob (ANL, USA)*
 
 **Session 2 - State of the art of methodological approaches**
 
-[Scientific and technical motivations for the ICON model development](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Giorgetta.pdf) by Marco Giorgetta (MPI-M, Germany)
+[Scientific and technical motivations for the ICON model development](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Giorgetta.pdf), *Marco Giorgetta (MPI-M, Germany)*
 
-[A cloud resolving high resolution version of ICON - the HD(CP)2 project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Biercamp.pdf) by Joachim Biercamp (DKRZ, Germany)
+[A cloud resolving high resolution version of ICON - the HD(CP)2 project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Biercamp.pdf), *Joachim Biercamp (DKRZ, Germany)*
 
-[NICAM - Nonhydrostatic Icosahedral Atmospheric Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Satoh.pdf) by Masaki Satoh (Tokyo University, Japan)
+[NICAM - Nonhydrostatic Icosahedral Atmospheric Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session2_Satoh.pdf), *Masaki Satoh (Tokyo University, Japan)*
 
 **Session 3 - State of the art of Dycore Projects**
 
-[An overview of the ICOMEX project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Dubos.pdf) by Thomas Dubos (IPSL/CNRS France)
+[An overview of the ICOMEX project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Dubos.pdf), *Thomas Dubos (IPSL/CNRS France)*
 
-[An overview of the GUNG-HO project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Wood.pdf) by Nigel Wood (Met Office, UK)
+[An overview of the GUNG-HO project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Wood.pdf), *Nigel Wood (Met Office, UK)*
 
-[An overview of the DYNAMICO project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Dubos_2.pdf) by Thomas Dubos (IPSL/CNRS France)
+[An overview of the DYNAMICO project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session3_Dubos_2.pdf), *Thomas Dubos (IPSL/CNRS France)*
 
 **Session 4 - State of the art of the engineering approaches**
 
-[GPU efforts on NIM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Govett.pdf) by Mark Govett (NOAA/ESRL, USA)
+[GPU efforts on NIM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Govett.pdf), *Mark Govett (NOAA/ESRL, USA)*
 
-[Abstracting the hardware: engineering climate models for the hardware revolution](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Ham.pdf) by David Ham (Imperial College, UK)
+[Abstracting the hardware: engineering climate models for the hardware revolution](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Ham.pdf), *David Ham (Imperial College, UK)*
 
-[GPU implementations of the ICON Non-hydrostatic Solver](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Sawyer.pdf) by William Sawyer (CSCS, CH)
+[GPU implementations of the ICON Non-hydrostatic Solver](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Sawyer.pdf), *William Sawyer (CSCS, CH)*
 
-[Talk on FVCUBED and FMS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Balaji.pdf) by V. Balaji (NOAA/GFDL & Princeton University, USA)
+[Talk on FVCUBED and FMS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_session4_Balaji.pdf), *V. Balaji (NOAA/GFDL & Princeton University, USA)*
 
 
 **Session 5 - Breakout groups**
@@ -101,75 +101,75 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 
 **[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_agenda.pdf) & PRESENTATIONS**
 
-[Welcome and introduction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_Intro_Sylvie.pdf) by Sylvie Joussaume (IPSL, FR)
+[Welcome and introduction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_Intro_Sylvie.pdf), *Sylvie Joussaume (IPSL, FR)*
 
 **Session 1 - Status of EU Exascale projects**
 
-[EESI (1 & 2) European Exascale Software Initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Ricoux.pdf) by Philippe Ricoux (Total, FR)
+[EESI (1 & 2) European Exascale Software Initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Ricoux.pdf), *Philippe Ricoux (Total, FR)*
 
-[CRESTA, Collaborative Research into Exascale Systemware Tools & Applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Mozdzynski.pdf) by George Mozdzynski (ECMWF)
+[CRESTA, Collaborative Research into Exascale Systemware Tools & Applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Mozdzynski.pdf), *George Mozdzynski (ECMWF)*
 
-[DEEP, Dynamical Exascale Entry Platform](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Suarez.pdf) by Estela Suarez (JSC, DE)
+[DEEP, Dynamical Exascale Entry Platform](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Suarez.pdf), *Estela Suarez (JSC, DE)*
 
-[Mont-Blanc, European scalable and power efficient HPC platform based on low-power embedded technology](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Carpenter.pdf) by Paul Carpenter (BSC, SP)
+[Mont-Blanc, European scalable and power efficient HPC platform based on low-power embedded technology](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Carpenter.pdf), *Paul Carpenter (BSC, SP)*
 
 
 **Session 2 - European Earth System Models with a focus on computing performance**
 
-[EC-Earth](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Fladrich.pdf) by Uwe Fladrich (SMHI, SE)
+[EC-Earth](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Fladrich.pdf), *Uwe Fladrich (SMHI, SE)*
 
-[CNRM-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Senesi.pdf) by Stéphane Sénési (MeteoFrance, FR)
+[CNRM-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Senesi.pdf), *Stéphane Sénési (MeteoFrance, FR)*
 
-[MPI-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Budich.pdf) by Reinhard Budich (MPI-M, DE)
+[MPI-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Budich.pdf), *Reinhard Budich (MPI-M, DE)*
 
-[UM-based ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Rioual.pdf) by Jean-Christophe Rioual (Hadley Centre, UK)
+[UM-based ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Rioual.pdf), *Jean-Christophe Rioual (Hadley Centre, UK)*
 
-[IPSL-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Foujols.pdf) by Marie-Alice Foujols (IPSL, FR)
+[IPSL-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Foujols.pdf), *Marie-Alice Foujols (IPSL, FR)*
 
-[C-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Lovato.pdf) by Tomas Lovato (CMCC, IT)
+[C-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Lovato.pdf), *Tomas Lovato (CMCC, IT)*
 
-[NorESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Bentsen.pdf) by Mats Bentsen (Uni Research, NO)
+[NorESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Bentsen.pdf), *Mats Bentsen (Uni Research, NO)*
 
 **Session 3 - International Earth System Models and dynamical cores**
 
-[CESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dennis.pdf) by John Dennis (NCAR, US)
+[CESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dennis.pdf), *John Dennis (NCAR, US)*
 
-[MPAS, Model for Prediction Across Scales](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Skamarock.pdf) by Bill Skamarock (NCAR, US)
+[MPAS, Model for Prediction Across Scales](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Skamarock.pdf), *Bill Skamarock (NCAR, US)*
 
-[GFDL](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Balaji.pdf) by V. Balaji (GFDL, US)
+[GFDL](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Balaji.pdf), *V. Balaji (GFDL, US)*
 
-[DYNAMICO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dubos.pdf) by Thomas Dubos (IPSL, FR)
+[DYNAMICO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dubos.pdf), *Thomas Dubos (IPSL, FR)*
 
-[ICON](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Zaengl.pdf) by Günther Zängl (DWD, DE)
+[ICON](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Zaengl.pdf), *Günther Zängl (DWD, DE)*
 
-[Status of Dynamical Core Model Intercomparison Project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Jablonowski.pdf) by Christiane Jablonowski (U. Michigan, US)
+[Status of Dynamical Core Model Intercomparison Project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Jablonowski.pdf), *Christiane Jablonowski (U. Michigan, US)*
 
 **Session 4 - Report from Large Numerical Climate Experiments on PRACE platforms**
 
-[Pulsation: Peta scale mULti-gridS ocean-ATmosphere coupled simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Masson.pdf) by Sébastien Masson (LOCEAN/IPSL, FR)
+[Pulsation: Peta scale mULti-gridS ocean-ATmosphere coupled simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Masson.pdf), *Sébastien Masson (LOCEAN/IPSL, FR)*
 
-[UPSCALE: Joint Weather and Climate High - Global Modelling: Future Weathers and their Risks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Vidale.pdf) by Pier Luigi Vidale (NCAS, UK)
+[UPSCALE: Joint Weather and Climate High - Global Modelling: Future Weathers and their Risks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Vidale.pdf), *Pier Luigi Vidale (NCAS, UK)*
 
 
 **Session 5 - Development for Exascale and GPUs for climate models**
 
-[ICOMEX ICOsahedral-grid Models for EXascale Earth system simulations)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Zaengl.pdf) by Günther Zängl (DWD, DE)
+[ICOMEX ICOsahedral-grid Models for EXascale Earth system simulations)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Zaengl.pdf), *Günther Zängl (DWD, DE)*
 
-[From ENDGame to GungHo](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Vidale.pdf) by Nigel Wood (MetOffice, UK)
+[From ENDGame to GungHo](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Vidale.pdf), *Nigel Wood (MetOffice, UK)*
 
-[Using GPUs for climate models, report on US initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Govett.pdf) by Mark Govett (NOAA, USA)
+[Using GPUs for climate models, report on US initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Govett.pdf), *Mark Govett (NOAA, USA)*
 
 **Session 6 - Environment for HPC**
 
-[Exarch Climate analytics on distributed EXascale Archives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Juckes.pdf) by Martin Juckes (BADC, UK)
+[Exarch Climate analytics on distributed EXascale Archives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Juckes.pdf), *Martin Juckes (BADC, UK)*
 
-[JASMIN and data issues, status and perspectives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Lawrence.pdf) by Bryan Lawrence (NCAS, UK)
+[JASMIN and data issues, status and perspectives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Lawrence.pdf), *Bryan Lawrence (NCAS, UK)*
 
-[PARVIS, Parallel visualisation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Jacob.pdf) by Rob Jacob (Argonne, US)
+[PARVIS, Parallel visualisation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Jacob.pdf), *Rob Jacob (Argonne, US)*
 
-[I/O’s, status and perspective](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Kornblueh.pdf) by Luis Kornblueh (MPI-M, De)
+[I/O’s, status and perspective](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Kornblueh.pdf), *Luis Kornblueh (MPI-M, DE)*
 
-[A review of the main coupling technologies used in the climate modelling community](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Valcke.pdf) by Sophie Valcke (CERFACS, FR)
+[A review of the main coupling technologies used in the climate modelling community](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Valcke.pdf), *Sophie Valcke (CERFACS, FR)*
 
 
 **[Session 7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session7.pdf) – Long-term strategic issues**
@@ -189,7 +189,7 @@ After two successful events in Lecce in December 2011 and Toulouse in January 20
 
 **Welcome Session**
 
-Introduction to (IS)ENES & Review of workshops 1 & 2 by Sylvie Joussaume
+Introduction to (IS)ENES & Review of workshops 1 & 2, *Sylvie Joussaume (IPSL/CNRS, France)*
 
 **Session 1 - **
 
