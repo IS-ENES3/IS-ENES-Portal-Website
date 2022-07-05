@@ -337,8 +337,8 @@ Talk on space-time parallelization, *Yvon Maday*
 
 **Venue**: Barcelona Supercomputing Center, Barcelona, Spain
 
-[IS-ENES3](https://is.enes.org/) organises this workshop of the European Network for Earth System modelling (ENES) in collaboration with [ESiWACE2](https://esiwace.eu/). It will gather experts on HPC in earth system modelling at an hybrid event. A streaming service for remote participants (including speakers) will be available but after those 2 years of very scarce social interactions due to the pandemic, we strongly encourage everyone to travel and physically attend the workshop.
-Building on the previous ENES HPC workshops (Lecce, 2011 & 2018; Toulouse, 2013 & 2016; Hamburg, 2014 & 2020), the talks are structured around the 5 following topics:
+[IS-ENES3](https://is.enes.org/) organised this workshop of the European Network for Earth System modelling ([ENES](https://portal.enes.org/)) in collaboration with [ESiWACE2](https://esiwace.eu/). It gathered experts on HPC in earth system modelling at an hybrid event. 
+Building on the previous ENES HPC workshops (Lecce, 2011 & 2018; Toulouse, 2013 & 2016; Hamburg, 2014 & 2020), the talks were structured around the 5 following topics:
 
 - European and International HPC Landscape
 - Mix traditional modeling with Machine Learning 
@@ -346,13 +346,18 @@ Building on the previous ENES HPC workshops (Lecce, 2011 & 2018; Toulouse, 2013 
 - Heterogeneous architectures (accelerators)
 - Data Worflows
 
+The abstracts can be dowloaded [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_abstracts.pdf).
+
+The recordings of the workshop are available on the IS-ENES3 YouTube channel under [the dedicated playlist](https://www.youtube.com/watch?v=rLx8-t_5LYQ&list=PLFvev1W5vG7P56bYBrfQTaSYEPeijjolJ&index=2).
+
 **[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_agenda.pdf) & PRESENTATIONS**
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
 
-**Session 1 - **
+**Session 1 - European and International Landscape**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_.pdf) by 
+
 
 <hr style="border:2px solid gray">
 
