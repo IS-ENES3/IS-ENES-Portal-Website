@@ -255,49 +255,45 @@ Talk on space-time parallelization, *Yvon Maday*
 
 **Session 6 - Working session on performance intercomparisons of climate models**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_.pdf), **
+[Performance measurements of HPC-applications at LRZ](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_Brietzke.pdf), *Gilbert Brietzke*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_.pdf), **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_.pdf), **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_.pdf), **
+[A metric for computational performance based on SYPD](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session6_Balaji.pdf), *Venkatramani Balaji*
 
 
 **Session 7 - HPC Hardware challenges & solutions for the climate community**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[Weather and Climate roadmap to extreme scale: the Intel perspective](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Sawley.pdf), *Marie-Christine Sawley*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[Designing a Highly Redundant Maintenance and Distribution System for Critical Research Data](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Fellinger.pdf), *Dave Fellinger*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[A use case (based on NEMO)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Vigilant.pdf), *Franck Vigilant*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[Load unbalance : a major bottleneck for climate applications on exascale systems](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Pospiech.pdf), *Christoph Pospiech*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[Architectures for Extreme Scale Earth System Modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Nyberg.pdf), *Per Nyberg*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[SX-ACE technology and future visions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Fischer.pdf), *Rudi Fischer*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_.pdf), **
+[NVIDIAS perspective on EXASCALE](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session7_Posey.pdf), *Stan Posey*
 
 
 **Session 8 - Porting Climate Codes on top-of-the edge machines**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_.pdf), **
+[From Gung Ho to LFRic - replacing the Met Office Unified Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_Mullerworth.pdf), *Steve Mullerworth*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_.pdf), **
+[ICON for HD(CP)2 (High definition clouds and precipitation for climate prediction)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_Adamidis.pdf), *Panagiotis Adamidis*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_.pdf), **
+[The SPRUCE Project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_Maisonnave.pdf), *Eric Maisonnave*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_.pdf), **
+[The HiResClim and SPECS Projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_Doblas-Reyes.pdf), *Francisco J. Doblas-Reyes*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_.pdf), **
+[DYNAMICO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session8_Meurdesoif.pdf), *Yann Meurdesoif*
 
 **Session 9 - Center of Excellence on Climate**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_.pdf), **
+[Status of Commission initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_Joussaume.pdf), *Sylvie Joussaume*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_.pdf), **
+[Open discussion](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_Discussion.pdf), **
 
 
 <hr style="border:2px solid gray">
