@@ -191,121 +191,26 @@ After two successful events in Lecce in December 2011 and Toulouse in January 20
 
 Introduction to (IS)ENES & Review of workshops 1 & 2, *Sylvie Joussaume (IPSL/CNRS, France)*
 
-**Session 1 - **
+**Session 1 - Future trends in climate science & related HPC challenges**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[Scientific challenges in climate modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Jochem Marotzke* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[Scalable Software Developement for Climate Models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Thomas Schulthes*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[Overview from US](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Venkatramani Balaji* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[Refactoring CESM for exascale](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Rich Loft*
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[The Upscale project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Pier-Luigi Vidale*
 
 
 **Session 1 - **
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
 
 <hr style="border:2px solid gray">
