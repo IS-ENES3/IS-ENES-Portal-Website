@@ -195,16 +195,37 @@ Introduction to (IS)ENES & Review of workshops 1 & 2, *Sylvie Joussaume (IPSL/CN
 
 [Scientific challenges in climate modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Jochem Marotzke* 
 
-[Scalable Software Developement for Climate Models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Thomas Schulthes*
+[Scalable Software Developement for Climate Models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Schulthes.pdf), *Thomas Schulthes*
 
-[Overview from US](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Venkatramani Balaji* 
+[Overview from US](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Balaji.pdf), *Venkatramani Balaji* 
 
-[Refactoring CESM for exascale](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Rich Loft*
+[Refactoring CESM for exascale](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Loft.pdf), *Rich Loft*
 
-[The Upscale project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), *Pier-Luigi Vidale*
+[The Upscale project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Vidale.pdf), *Pier-Luigi Vidale*
 
 
-**Session 1 - **
+**Session 2 - Status of EU Exascale projects**
+
+[CRESTA: Collaborative Research Into Exascale Systemware, Tools & Applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Laure.pdf), *Erwin Laure*
+
+[DEEP: Dynamical Exascale Entry Platform](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Merx.pdf), *Hendrik Merx*
+
+[MONT-BLANC: European scalable and power efficient HPC platform based on low-power embedded technology](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Carpenter.pdf), *Paul Carpenter*
+
+[EXA2CT: EXascale Algorithms & Advanced Computational Techniques](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Sawley.pdf), *Marie-Christine Sawley*
+
+
+**Session 3 - Status of EU G8 projects**
+
+[G8 ESC: Enabling Climate Simulations at Extreme Scale](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Loft.pdf), *Rich Loft*
+
+[ICOMEX: ICOsahedral-grid Models for EXascale Earth system simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Kunkel.pdf), *Julian Kunkel*
+
+[EXARCH: climate analytics on distributed EXascale data ARCHives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_Juckes.pdf), *Martin Juckes*
+
+
+**Session 4 - HPC Software challenges & solutions for the climate community
+**
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
@@ -212,6 +233,44 @@ Introduction to (IS)ENES & Review of workshops 1 & 2, *Sylvie Joussaume (IPSL/CN
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
 
 
+
+**Session 5 - New Parallel Approaches at Exascale**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+
+
+**Session 6 - Working session on performance intercomparisons of climate models**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+
+
+**Session 7 - HPC Hardware challenges & solutions for the climate community**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+
+
+**Session 8 - Porting Climate Codes on top-of-the edge machines**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+
+**Session 9 - Center of Excellence on Climate**
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf), **
 
 <hr style="border:2px solid gray">
 
