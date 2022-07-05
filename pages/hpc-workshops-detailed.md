@@ -293,24 +293,13 @@ Talk on space-time parallelization, *Yvon Maday*
 
 [Status of Commission initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_Joussaume.pdf), *Sylvie Joussaume*
 
-[Open discussion](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_Discussion.pdf), **
+[Open discussion](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session9_Discussion.pdf)
 
 
 <hr style="border:2px solid gray">
 
-### <a name="hpc4"></a>
+### <a name="hpc4"></a>[ENES Workshop on High Performance Computing for Climate and Weather](https://www.esiwace.eu/events/4th-hpc-ws), April 2016, Toulouse, France
 
-**Place**: 
-
-**Venue**: 
-
-**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
 <hr style="border:2px solid gray">
 
