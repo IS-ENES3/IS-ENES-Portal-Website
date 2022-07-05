@@ -79,7 +79,7 @@ The ENES initiative, gathering the European climate modeling community, organize
 
 [2012 NCAR Dynamical Core Workshop in 2012](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_conclusion_NCAR_WS_2012.pdf)
 
----
+<hr style="border:2px solid gray">
 
 ### <a name="hpc2"></a>IS-ENES workshop on HPC for Climate Models, 30 Jan - 1 Feb 2013 
 
@@ -175,24 +175,140 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 **[Session 7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session7.pdf) – Long-term strategic issues**
 
 
----
+<hr style="border:2px solid gray">
 
-### <a name="hpc3"></a>
+### <a name="hpc3"></a>Exascale Technologies & Innovation in HPC for Climate Models - 3rd HPC Workshop
 
-**Place**: 
+**Place**: Hamburg, Germany
 
-**Venue**: 
+After two successful events in Lecce in December 2011 and Toulouse in January 2013 this will be the 3rd workshop dealing with challenges the community of climate modellers faces, through the development of high performance computing organized by ENES, the European Network for Earth System Modelling.
+
+**Venue**: Cap San Diego, Überseebrücke, Hamburg
 
 **[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
+**Welcome Session**
+
+Introduction to (IS)ENES & Review of workshops 1 & 2 by Sylvie Joussaume
 
 **Session 1 - **
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
----
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+**Session 1 - **
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+
+
+<hr style="border:2px solid gray">
 
 ### <a name="hpc4"></a>
 
@@ -208,7 +324,7 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
----
+<hr style="border:2px solid gray">
 
 ### <a name="hpc5"></a>
 
@@ -224,7 +340,8 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
----
+<hr style="border:2px solid gray">
+
 
 ### <a name="hpc6"></a>
 
@@ -240,7 +357,8 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
----
+<hr style="border:2px solid gray">
+
 
 ### <a name="hpc7"></a>
 
@@ -256,5 +374,5 @@ The workshop is devoted to organize sharing of experience on these topics, listi
 
 [](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
 
+<hr style="border:2px solid gray">
 
----
