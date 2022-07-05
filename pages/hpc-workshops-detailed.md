@@ -20,6 +20,8 @@ header:
 
 ### <a name="hpc1"></a>Workshop on dynamical cores for climate models, 14-16 December 2011
 
+**Place**: Lecce, Italy
+
 The ENES initiative, gathering the European climate modeling community, organizes a workshop on dynamical cores for climate models in Lecce (Italy) on December 15th and 16th, 2011, hosted by our colleagues from the Euro Mediterranean Center for Climate Change (CMCC), with the following objectives:
 
 - exchange information on new dynamical cores for climate and closely related high-performance computing issues,
@@ -77,27 +79,100 @@ The ENES initiative, gathering the European climate modeling community, organize
 
 [2012 NCAR Dynamical Core Workshop in 2012](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_conclusion_NCAR_WS_2012.pdf)
 
-
-
-
-
-
-
 ---
 
-### <a name="hpc2"></a>IS-ENES workshop on HPC for Climate Models, January 30th - February 1st, 2013 in Toulouse France
+### <a name="hpc2"></a>IS-ENES workshop on HPC for Climate Models, 30 Jan - 1 Feb 2013 
 
-**Session 5 - Breakout groups**
+**Place**: Toulouse, France
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_) by 
+One of the most pressing challenges our climate community has to face is to prepare its numerical models for the many-core new supercomputers which will deliver multi-petaflop and exaflop performance during the second half of the present decade.
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_) by 
+As a  follow up of the  first IS-ENES Workshop on "Dynamical Cores", held in Lecce (Italy) in December 2011 (LINK), the 2nd workshop aims to exchange information on the status of:
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_) by 
+- European and International Earth System Models, reviewing their computational performance
+- The latest EU Exascale projects
+- Results from collaboration with the EU HPC facility PRACE and from large numerical climate experiments on PRACE
+- Issues related to ESM environments for HPC computing infrastructure,
+- Developments of new dynamical cores for climate and closely related high-performance computing issues, with emphasis on European projects and international state of the art.
 
-**Conclusions**
+The workshop is devoted to organize sharing of experience on these topics, listing the critical issues, to possibly reaching a general agreement of future strategies, and to leveraging international collaborations aiming at solving some common issues.
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW1_) by 
+**Venue**: Fondation Bemberg, Toulouse, France
+
+**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_agenda.pdf) & PRESENTATIONS**
+
+[Welcome and introduction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_Intro_Sylvie.pdf) by Sylvie Joussaume (IPSL, FR)
+
+**Session 1 - Status of EU Exascale projects**
+
+[EESI (1 & 2) European Exascale Software Initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Ricoux.pdf) by Philippe Ricoux (Total, FR)
+
+[CRESTA, Collaborative Research into Exascale Systemware Tools & Applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Mozdzynski.pdf) by George Mozdzynski (ECMWF)
+
+[DEEP, Dynamical Exascale Entry Platform](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Suarez.pdf) by Estela Suarez (JSC, DE)
+
+[Mont-Blanc, European scalable and power efficient HPC platform based on low-power embedded technology](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Carpenter.pdf) by Paul Carpenter (BSC, SP)
+
+
+**Session 2 - European Earth System Models with a focus on computing performance**
+
+[EC-Earth](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Fladrich.pdf) by Uwe Fladrich (SMHI, SE)
+
+[CNRM-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Senesi.pdf) by Stéphane Sénési (MeteoFrance, FR)
+
+[MPI-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Budich.pdf) by Reinhard Budich (MPI-M, DE)
+
+[UM-based ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session2_Rioual.pdf) by Jean-Christophe Rioual (Hadley Centre, UK)
+
+[IPSL-CM5](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Foujols.pdf) by Marie-Alice Foujols (IPSL, FR)
+
+[C-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Lovato.pdf) by Tomas Lovato (CMCC, IT)
+
+[NorESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session1_Bentsen.pdf) by Mats Bentsen (Uni Research, NO)
+
+**Session 3 - International Earth System Models and dynamical cores**
+
+[CESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dennis.pdf) by John Dennis (NCAR, US)
+
+[MPAS, Model for Prediction Across Scales](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Skamarock.pdf) by Bill Skamarock (NCAR, US)
+
+[GFDL](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Balaji.pdf) by V. Balaji (GFDL, US)
+
+[DYNAMICO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Dubos.pdf) by Thomas Dubos (IPSL, FR)
+
+[ICON](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Zaengl.pdf) by Günther Zängl (DWD, DE)
+
+[Status of Dynamical Core Model Intercomparison Project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session3_Jablonowski.pdf) by Christiane Jablonowski (U. Michigan, US)
+
+**Session 4 - Report from Large Numerical Climate Experiments on PRACE platforms**
+
+[Pulsation: Peta scale mULti-gridS ocean-ATmosphere coupled simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Masson.pdf) by Sébastien Masson (LOCEAN/IPSL, FR)
+
+[UPSCALE: Joint Weather and Climate High - Global Modelling: Future Weathers and their Risks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session4_Vidale.pdf) by Pier Luigi Vidale (NCAS, UK)
+
+
+**Session 5 - Development for Exascale and GPUs for climate models**
+
+[ICOMEX ICOsahedral-grid Models for EXascale Earth system simulations)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Zaengl.pdf) by Günther Zängl (DWD, DE)
+
+[From ENDGame to GungHo](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Vidale.pdf) by Nigel Wood (MetOffice, UK)
+
+[Using GPUs for climate models, report on US initiatives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session5_Govett.pdf) by Mark Govett (NOAA, USA)
+
+**Session 6 - Environment for HPC**
+
+[Exarch Climate analytics on distributed EXascale Archives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Juckes.pdf) by Martin Juckes (BADC, UK)
+
+[JASMIN and data issues, status and perspectives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Lawrence.pdf) by Bryan Lawrence (NCAS, UK)
+
+[PARVIS, Parallel visualisation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Jacob.pdf) by Rob Jacob (Argonne, US)
+
+[I/O’s, status and perspective](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Kornblueh.pdf) by Luis Kornblueh (MPI-M, De)
+
+[A review of the main coupling technologies used in the climate modelling community](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session6_Valcke.pdf) by Sophie Valcke (CERFACS, FR)
+
+
+**[Session 7 – Long-term strategic issues](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2_session7.pdf)** 
 
 
 
