@@ -300,22 +300,21 @@ Talk on space-time parallelization, *Yvon Maday*
 
 ### <a name="hpc4"></a>[ENES Workshop on High Performance Computing for Climate and Weather](https://www.esiwace.eu/events/4th-hpc-ws), April 2016, Toulouse, France
 
+**Main topics**
+- The European HPC ecosystem;
+- Innovative developments (new dynamical cores, I/Os…) and today high-resolution models;
+- New paradigms (languages, standards, next-generation models …).
 
 <hr style="border:2px solid gray">
 
-### <a name="hpc5"></a>
+### <a name="hpc5"></a>[5th ENES HPC Workshop](https://www.esiwace.eu/events/5th-enes-hpc-workshop/5th-enes-hpc-workshop), May 2017, Lecce, Italy
 
-**Place**: 
-
-**Venue**: 
-
-**[AGENDA](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_agenda.pdf) & PRESENTATIONS**
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_Intro_Sylvie.pdf) by 
-
-**Session 1 - **
-
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW3_session1_.pdf) by 
+**Main Topics**
+- European & international exascale ecosystems (information on the state of the art both at hardware and software level)
+- Very high-resolution modelling and HPC challenges
+- Tools and components
+- Panel discussion on data centres support for weather and climate models and workflows
+- Update on the European strategies on HPC
 
 <hr style="border:2px solid gray">
 
