@@ -370,7 +370,7 @@ DestinE: opportunities & challenges for digital twins of the Earth System, *Nils
 
 **Session 2 - Mix traditional modeling with ML**
 
-[Machine learning for weather and climate predictions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Dueben.pdf), *Peter Dueben (ECMWF)* 
+[Machine learning for weather and climate predictions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Dueben.pdf), *Peter Düben (ECMWF)* 
 
 [High-Tune Explorer: a tool to accelerate model calibration based on process-oriented metrics](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session2_Couvreux.pdf), *Fleur Couvreux (Météo-France)* 
 
@@ -398,33 +398,34 @@ Skilful precipitation nowcasting using deep generative models of radar, *Suman R
 
 **Session 4 - Heterogeneous architectures (accelerators)**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[Preparing ICON for heterogeneous architectures - Experiences and the way forward](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Frauen.pdf), *Claudia Frauen (DKRZ* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[PSyclone in Met Office: Evolution and revolution](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Kavcic.pdf), *Iva Kavcic (UK Met)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[Accelerating tracer transport in FESOM-2 with GPU's](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Vandenoord.pdf), *Gijs van den Oord (NLeSC)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[CAMP First GPU Solver: A Solution to Accelerate Chemistry in Atmospheric Models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Guzman.pdf), *Christian Guzman (BSC)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[Preparing IFS for HPC accelerators via source-to-source translation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Lange.pdf), *Michael Lange (ECMWF)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[Enabling large scale modeling on GPU accelerated nodes for NCAR's next supercomputer Derecho](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Hauser.pdf), *Thomas Hauser (NCAR)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_.pdf), ** 
+[E3SM’s C++ based GPU strategy and latest performance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session4_Taylor.pdf), *Mark Taylor (PNL)* 
 
 
 **Session 5 - Workflow**
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+[Nobody needed all those bits anyway: compressing atmospheric data into its real information content](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Kloewer.pdf), *Milan Klöwer (Oxford)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+[Fostering lossy compression in the European Earth System Modelling community: SZ compressor and XIOS I/O server as a case study](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Yepes.pdf), *Xavier Yepes (BSC)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+[Data-Centric workflows in Exascale Weather Forecasting](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Quintino.pdf), *Tiago Quintino (ECMWF)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+[ExCALIData: Exascale I/O & Storage and Workflow](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Lawrence.pdf), *Bryan Lawrence (NCAS)* 
 
-[](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_.pdf), ** 
+[Semantic access to gridded weather data based on zarr](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Aznar.pdf), *Gabriela Aznar (MSwiss)* 
 
+[Towards HPC and Big Data convergence for climate analysis at scale](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session5_Elia.pdf), *Donatello Elia (CMCC)* 
 
 <hr style="border:2px solid gray">
 
