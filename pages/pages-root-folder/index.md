@@ -23,7 +23,7 @@ permalink: /index.html
 homepage: true
 ---
 
-## Welcome to the ENES Portal
+## Welcome to ENES 
 
 ### The European Network for Earth System Modelling
 
