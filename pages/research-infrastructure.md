@@ -36,7 +36,7 @@ widget3:
 
 **Climate modelling depends on a significant amount of infrastructure**: from the models themselves to the computing and data infrastructure. This tripod of models, computing, and data – with all the connecting workflow, network, and tools – needs to be well documented and depends on the central role of people with expertise in climate science, model and software development. 
 
-![schemainfrastructure](../images/schemainfrastructure.png)
+
 
 **The strategy documents** present the strategy of the ENES research infrastructure. They have been elaborated as part of the IS-ENES projects and encompass recommendations for the different components of ENES research infrastructure. 
 
