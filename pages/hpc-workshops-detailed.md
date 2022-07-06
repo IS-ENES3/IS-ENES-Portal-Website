@@ -363,7 +363,7 @@ The recordings of the workshop are available on the IS-ENES3 YouTube channel und
 
 [Numerical Climate and Weather Modeling on the China Earth System Simulator](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Yu.pdf), *Yongqiang Yu (LASG, Institute of Atmospheric Physics)*
 
-DestinE: opportunities & challenges for digital twins of the Earth System, *Nils Wedi (ECMWF)*
+[DestinE: opportunities & challenges for digital twins of the Earth System](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Wedi.pdf), *Nils Wedi (ECMWF)*
 
 [HPC Challenges for CMIP: lessons from CMIP6 and potential next steps](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW7_session1_Lamarque.pdf), *Jean François Lamarque (NCAR)* 
 
