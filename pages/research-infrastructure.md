@@ -17,23 +17,22 @@ header:
 widget1:
   title: "Strategy"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/strategy/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Strategy.png
   text: Documents the ENES research infrastructure strategy
 widget2:
   title: "IS-ENES"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/isenes/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Data_Metadata_2b.png
   text: Provides access to datasets from international intercomparison projects
 widget3:
   title: "ESiWACE"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/esiwace/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_EESM.png
   text: Provides access to software and services
 
 ---
 
 # Research Infrastructure
-## Subheader
 
 **Climate modelling depends on a significant amount of infrastructure**: from the models themselves to the computing and data infrastructure. This tripod of models, computing, and data – with all the connecting workflow, network, and tools – needs to be well documented and depends on the central role of people with expertise in climate science, model and software development. 
 
