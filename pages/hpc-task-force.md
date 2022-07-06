@@ -44,18 +44,18 @@ The HPC-TF also:
 **Members** of ENES HPC-TF are, as of October 2016:
 
 - Fanny Adloff (DKRZ)
-- Jean-Claude André (ENES Board) - **CHAIR**
 - Giovanni Aloisio (CMCC)
+- Jean-Claude André (Cerfacs) - **CHAIR**
 - Peter Bauer (ECMWF)
-- Joachim Biercamp (DKRZ, ESiWACE coordinator)
-- Reinhard Budich (MPI)
-- Francisco Doblas-Reyes (BSC-IC3)
+- Joachim Biercamp (DKRZ)
+- Reinhard Budich (MPI-Met)
+- Francisco Doblas-Reyes (BSC)
 - Uwe Fladrich (SMHI)
-- Sylvie Joussaume (IS-ENES coordinator, ENES Chair, PRACE SSC member)
-- Bryan Lawrence (NCAS, ENES Board)
+- Sylvie Joussaume (IPSL)
+- Bryan Lawrence (NCAS)
 - Olivier Marti (IPSL)
-- Antonio Navarra (CMCC, ENES Board, PRACE SSC member)
+- Antonio Navarra (CMCC)
 - Jean-Christophe Rioual (Met Office)
 - Kim Serradell (BSC)
-- Sophie Valcke  (CERFACS, also member of PRACE AC)
-- Pier Luigi Vidale (U. Reading)
+- Sophie Valcke  (Cerfacs)
+- Pier Luigi Vidale (NCAS)
