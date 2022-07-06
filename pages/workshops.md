@@ -17,11 +17,11 @@ header:
 widget1:
   title: "HPC Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/hpc-workshops/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Coupling_workshop.png
 widget2:
   title: "Coupling Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_HPC_Workshop.png
 
 ---
 
