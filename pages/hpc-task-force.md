@@ -41,7 +41,7 @@ The HPC-TF also:
 - Helps develop collaboration with vendors
  
 
-**Members** of ENES HPC-TF are, as of October 2016:
+**Members** of ENES HPC-TF are, as of July 2022:
 
 - Fanny Adloff (DKRZ)
 - Giovanni Aloisio (CMCC)
