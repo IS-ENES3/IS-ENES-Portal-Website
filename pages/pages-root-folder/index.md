@@ -14,7 +14,7 @@ widget1:
 widget2:
   title: "Projects"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/projects/'
-  image: headway-5QgIuuBxKwM-unsplash.jpg
+  image: picto_Deliv_Milestones.png
 widget3:
   title: "Partners"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/partners/'
