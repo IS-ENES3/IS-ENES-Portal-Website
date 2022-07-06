@@ -21,25 +21,25 @@ header:
 widget1:
   title: "Missions"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/missions/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Objectives.png
   
 widget2:
   title: "Members"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/members/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Partners.png
 widget3:
   title: "Projects"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/projects/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Deliv_Milestones.png
 widget4:
   title: "HPC Task Force"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/hpc-task-force/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Supercalculateur.png
   text: 'Advising on high-performance computing'
 widget5:
   title: "Data Task Force"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/data-task-force/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Data-TF.png
   text: 'Advising on the ENES data infrastructure'
   
 ---
