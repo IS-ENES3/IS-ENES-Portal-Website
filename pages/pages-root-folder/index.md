@@ -15,7 +15,7 @@ widget2:
   title: "Access to services"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/research-infrastructure/'
   image: picto_EESM.png
-  txt: ENES Services on climate model data and services models, tools and high-performance computing
+  text: 'ENES Services on climate model data and services models, tools and high-performance computing'
 widget3:
   title: "The ENES projects"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/projects/'
