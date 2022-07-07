@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "ENES Portal"
+- title: "About ENES"
   url: "/about-enes/"
   side: left
   dropdown:
