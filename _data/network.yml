@@ -1,13 +1,13 @@
-- menu_name: "Aknowledgements"
+#- menu_name: "Aknowledgements"
 
-- name: "Technical support by Valeriu Predoi"
-  url: "https://github.com/valeriupredoi"
-  class: "network-entypo"
-  title: "Technical support"
+#- name: "Technical support by Valeriu Predoi"
+#  url: "https://github.com/valeriupredoi"
+#  class: "network-entypo"
+#  title: "Technical support"
 
-- name: "Content by ♥Fanny&Sophie"
-  class: "services-newsletter"
-  title: "Content by Sophie Morellon"
+#- name: "Content by ♥Fanny&Sophie"
+#  class: "services-newsletter"
+#  title: "Content by Sophie Morellon"
 
 #- name: "Change me here"
 #  url: "http://unsplash.com/"
