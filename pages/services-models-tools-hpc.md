@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: Services on models, tools and HPC
+    # title: Services on models, tools and HPC
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 

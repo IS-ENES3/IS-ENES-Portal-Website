@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: "ENES HPC <br> Task Force"
+    # title: "ENES HPC <br> Task Force"
     background-color: "#186F4D;"
     # uncomment if needed
     # caption: This is a caption for the header image with link

@@ -13,7 +13,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Strategy
+    # title: Strategy
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 

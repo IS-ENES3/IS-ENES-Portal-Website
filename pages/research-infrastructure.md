@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: Research <br> and Infrastructure
+    # title: Research <br> and Infrastructure
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:

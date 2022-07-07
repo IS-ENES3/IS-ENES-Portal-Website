@@ -17,7 +17,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ENES Projects
+    # title: ENES Projects
     background-color: "#186F4D;"
     # uncomment if needed
     # caption: This is a caption for the header image with link

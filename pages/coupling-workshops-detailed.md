@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: "ENES Coupling <br> Workshops List"
+    # title: "ENES Coupling <br> Workshops List"
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 
