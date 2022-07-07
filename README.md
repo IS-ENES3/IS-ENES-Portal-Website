@@ -3,7 +3,7 @@
 
 # ISENES3 Portal Website
 
-This site (see deployment at https://is-enes3.github.io/IS-ENES-Portal-Website/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template.
+This site (see permanent deployment at <https://portal.enes.org/> via Github Pages at <https://is-enes3.github.io/IS-ENES-Portal-Website/> ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template.
 
 Maintenance is done by Valeriu Predoi. Automatic build tests happen with every push to repository, and are
 run in a [Github Actions Test](https://github.com/IS-ENES3/IS-ENES-Portal-Website/actions).
