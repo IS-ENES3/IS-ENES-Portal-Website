@@ -21,12 +21,12 @@ widget1:
   text: Documents the ENES research infrastructure strategy
 widget2:
   title: "IS-ENES"
-  url: '/services-climate-model-data/'
+  url: '/services-models-tools-hpc/'
   image: picto_Data_Metadata_2b.png
   text: Provides access to datasets from international intercomparison projects
 widget3:
   title: "ESiWACE"
-  url: '/services-models-tools-hpc/'
+  url: '/services-climate-model-data/'
   image: picto_EESM.png
   text: Provides access to software and services
 
