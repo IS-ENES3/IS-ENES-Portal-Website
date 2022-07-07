@@ -8,17 +8,18 @@ layout: frontpage
 header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
-  title: "Objectives"
-  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/objectives/'
-  image: nick-fewings-zF_pTLx_Dkg-unsplash.jpg
+  title: "About ENES"
+  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/about-enes'
+  image: picto_About.png
 widget2:
-  title: "Projects"
+  title: "Access to services"
+  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/research-infrastructure/'
+  image: picto_eesm.png
+  txt: ENES Services on climate model data and services models, tools and high-performance computing
+widget3:
+  title: "The ENES projects"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/projects/'
   image: picto_Deliv_Milestones.png
-widget3:
-  title: "Partners"
-  url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/partners/'
-  image: cytonn-photography-n95VMLxqM2I-unsplash.jpg
 permalink: /index.html
 homepage: true
 ---
