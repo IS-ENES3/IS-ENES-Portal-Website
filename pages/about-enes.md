@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth-6widgets
-title: "ENES Portal"
+title: "About ENES"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-enes/"
@@ -13,7 +13,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: About ENES
+    # title: About ENES
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
@@ -22,7 +22,6 @@ widget1:
   title: "Missions"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/missions/'
   image: picto_Objectives.png
-  
 widget2:
   title: "Members"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/members/'
