@@ -20,14 +20,14 @@ widget1:
   image: picto_Strategy.png
   text: Documents the ENES research infrastructure strategy
 widget2:
-  title: "IS-ENES"
+  title: "Services on models, tools and HPC"
   url: '/services-models-tools-hpc/'
-  image: picto_Data_Metadata_2b.png
+  image: picto_Common_software_tool.png
   text: Provides access to datasets from international intercomparison projects
 widget3:
-  title: "ESiWACE"
+  title: "Services on climate model data"
   url: '/services-climate-model-data/'
-  image: picto_EESM.png
+  image: picto_Data_Metadata_2b.png
   text: Provides access to software and services
 
 ---
