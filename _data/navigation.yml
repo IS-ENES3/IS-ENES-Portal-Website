@@ -23,9 +23,9 @@
   dropdown:
   - title: "Strategy"
     url: "/strategy"
-  - title: "IS-ENES"
+  - title: "Services on models, tools & HPC"
     url: "/services-models-tools-hpc"
-  - title: "ESiWACE"
+  - title: "Services on climate model data"
     url: "/services-climate-model-data"
 
 - title: "ENES Community Workshops"
