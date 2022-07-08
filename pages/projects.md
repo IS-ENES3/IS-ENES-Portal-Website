@@ -33,13 +33,13 @@ The ENES community is working together since 2000s within Science and Infrastruc
 Title	| Description | Leading Institute | Project Start | Project End
 :-------: | :---------: | :-----------:|:----------------:|:----------------:
 [ESM2025](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esm2025) | Earth system models for the future | MF-CNRM (France) |  Jun 01, 2021 | May 31, 2025
-[NextGEMS](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#nextgems) | Next Generation Earth Modelling Systems | MPG (Germany) Sep 01, 2021 | Aug 31, 2025
+[NextGEMS](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#nextgems) | Next Generation Earth Modelling Systems | MPG (Germany) | Sep 01, 2021 | Aug 31, 2025
 [IS-ENES3](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#isenes3) | InfraStructure for the European Network of Earth System Modelling | CNRS-IPSL (France) | Jan 01, 2019 | Mar 31, 2023
-[ESiWACE2](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esiwace2) | Excellence in Simulation of Weather and Climate in Europe, Phase 2	| DKRZ (Germany) | ECMWF (International) | Jan 01, 2019 | Dec 31, 2022
+[ESiWACE2](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esiwace2) | Excellence in Simulation of Weather and Climate in Europe, Phase 2	| DKRZ (Germany) - ECMWF (International) | Jan 01, 2019 | Dec 31, 2022
 [CRESCENDO](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#crescendo) | Coordinated Research in Earth Systems and Climate: Experiments, Knowledge, Dissemination and Outreach | University of Leeds (United-Kingdom) | Nov 01, 2015 | Mar 31, 2021
 [climateurope](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#climateurope) | Linking science and society | UKMO (United Kingdom) | Dec 01, 2015 | Nov 30, 2020
 [ENVRIplus](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#envriplus) | Research Infrastructures Providing Shared Solutions for Science and Society | UHEL (Finland) | May 01, 2015 | July 31, 2019
-[ESiWACE](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esiwace) | Excellence in Simulation of Weather and Climate in Europe | DKRZ (Germany) | ECMWF (International) | Sep 01, 2015 | Aug 31, 2019
+[ESiWACE](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#esiwace) | Excellence in Simulation of Weather and Climate in Europe | DKRZ (Germany) - ECMWF (International) | Sep 01, 2015 | Aug 31, 2019
 [PRIMAVERA](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#primavera) | PRocess-based climate sIMulation: AdVances in high resolution modelling and European climate Risk Assessment | UKMO (United Kingdom) | Nov 01, 2015 | Nov 01, 2019
 [IS-ENES2](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#isenes2) | InfraStructure for the European Network of Earth System Modelling, Phase 2 | CNRS-IPSL (France) | Apr 01, 2013 | Mar 31, 2017
 [SPECS](https://is-enes3.github.io/IS-ENES-Portal-Website/projects-detailed#specs) | Seasonal-to-decadal climate prediction for the improvement of European climate services | BSC (Spain) | Nov 01, 2012 | Jan 31, 2017 
