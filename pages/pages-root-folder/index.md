@@ -10,7 +10,7 @@ header:
 widget1:
   title: "About ENES"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/about-enes'
-  image: picto_ENES.png
+  image: picto_About.png
 widget2:
   title: "Access to services"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/research-infrastructure/'
