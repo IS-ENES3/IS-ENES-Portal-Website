@@ -13,7 +13,7 @@ tags:
 header:
     # title: High-Performance Computing (HPC) Workshops
     background-color: "#186F4D;"
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "banniere_workshops.jpg"
 
 ---
 
