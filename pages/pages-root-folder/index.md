@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "banniere_accueil_enes.jpg"
 widget1:
   title: "About ENES"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/about-enes'
