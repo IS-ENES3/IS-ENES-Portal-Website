@@ -1,6 +1,5 @@
 ---
 layout: frontpage2  # page-fullwidth
-title: Research Infrastructure
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/research-infrastructure/"
@@ -13,7 +12,7 @@ tags:
 header:
     # title: Research <br> and Infrastructure
     background-color: "#186F4D;"
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "Bbanniere_research_infrastructure.jpg"
 widget1:
   title: "Strategy"
   url: '/strategy/'
