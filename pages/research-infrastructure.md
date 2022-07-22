@@ -31,8 +31,6 @@ widget3:
 
 ---
 
-## Research Infrastructure
-
 **Climate modelling depends on a significant amount of infrastructure**: from the models themselves to the computing and data infrastructure. This tripod of models, computing, and data – with all the connecting workflow, network, and tools – needs to be well documented and depends on the central role of people with expertise in climate science, model and software development. 
 
 
