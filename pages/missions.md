@@ -15,7 +15,7 @@ tags:
 header:
     # title: "ENES Missions"
     background-color: "#186F4D;"
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "banniere_about_enes.jpg"
 ---
 
 
