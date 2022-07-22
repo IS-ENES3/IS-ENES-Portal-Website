@@ -12,7 +12,7 @@ tags:
 header:
     # title: Research <br> and Infrastructure
     background-color: "#186F4D;"
-    image_fullwidth: "Bbanniere_research_infrastructure.jpg"
+    image_fullwidth: "banniere_research_infrastructure.jpg"
 widget1:
   title: "Strategy"
   url: '/strategy/'
