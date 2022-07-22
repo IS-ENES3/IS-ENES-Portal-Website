@@ -24,7 +24,6 @@ permalink: /index.html
 homepage: true
 ---
 
-## Welcome to ENES 
 
 ### The European Network for Earth System Modelling
 
