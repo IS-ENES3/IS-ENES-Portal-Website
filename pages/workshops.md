@@ -11,9 +11,8 @@ tags:
     - background color
     - header
 header:
-    # title: ENES <br> Community Workshops
     background-color: "#186F4D;"
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "banniere_workshops.jpg"
 widget1:
   title: "HPC Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/hpc-workshops/'
