@@ -21,12 +21,12 @@ header:
 
 ### Site credits
 
-This site was built by Sophie Morellon, Fanny Adloff, and Valeriu Predoi.
+This site was built by Sophie Morellon, Fanny Adloff, Sylvie Joussaume and Valeriu Predoi.
 
 ### Images credits
 
 - « Welcome page » banner picture
-  - Photo by NASA on [Unsplash](https://unsplash.com) 
+  - Earth: CEA – Frédéric Durillon – [www.animea.com](https://https://www.animea.com/)
 - « About ENES » banner picture
   - SeaWiFS Project (NASA/GSFC & Orbimage)
 - « Research Infrastructure » banner picture
