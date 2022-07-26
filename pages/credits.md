@@ -26,12 +26,12 @@ This site was built by Sophie Morellon, Fanny Adloff, and Valeriu Predoi.
 ### Images credits
 
 - « Welcome page » banner picture
-  Photo by NASA on Unsplash 
+  - Photo by NASA on [Unsplash](https://unsplash.com) 
 - « About ENES » banner picture
-  SeaWiFS Project (NASA/GSFC & Orbimage)
+  - SeaWiFS Project (NASA/GSFC & Orbimage)
 - « Research Infrastructure » banner picture
-  Photo by Oleksii Topolianskyi on Unsplash 
+  - Photo by Oleksii Topolianskyi on [Unsplash](https://unsplash.com) 
 - « Community workshop » banner picture
-  Photo by Hugh Whyte on Unsplash
+  - Photo by Hugh Whyte on [Unsplash](https://unsplash.com)
 
 Banners and pictograms designed by Carole Petetin: <https://carolepetetin.com/>
