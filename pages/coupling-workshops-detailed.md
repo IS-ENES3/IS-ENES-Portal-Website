@@ -260,6 +260,7 @@ Further information on the programme and registration procedure will be provided
 - Mariana Vertenstein, National Center for Atmospheric Research 
 - Niki Zadeh, Geophysical Fluid Dynamics Laboratory
 
+This workshop is funded by the EU H2020 IS-ENES3 project.
 
 <hr style="border:2px solid gray">
 
