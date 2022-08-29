@@ -228,6 +228,38 @@ Contact: Sophie.Valcke[@]cerfacs.fr .
 
 <hr style="border:2px solid gray">
 
+### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
+
+The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France. The workshop will be held in a **hybrid format with remote attendance possible**.
+
+The workshop aims to bring together leading researchers and practitioners in the field of coupling infrastructure for Earth System Models. This workshop is the sixth in the series, started in 2010 in Toulouse and followed by Boulder USA (2013), Manchester UK (2015), Princeton USA (2017) and virtual (2020).
+
+Topics relevant to the workshop include, but are not limited to:
+- Coupling technology latest developments
+- Use of Coupling Technologies in ESMs or other climate and weather-related coupled systems: successes and failures, original or ground-breaking applications
+- Computational performance of Couplers and Coupled Systems
+- Coupling at exascale on heterogeneous systems.
+- Science of Coupling and Coupling Strategies
+- Integration of coupling technologies into workflows
+- Interaction of data assimilation and coupling technologies
+- Software development processes for complex coupled systems: Approaches for testing of complex coupled models, how code chages are made, build system, configuration system.
+
+Further information on the programme and registration procedure will be provided in November 2023 on this webpage. 
+
+**The CW2023 Program Committee** *(<cw_org@cerfacs.fr>)*
+- Anthony Craig, Software Consultant
+- Rocky Dunlap, National Center for Atmospheric Research
+- Steve Easterbrook, University of Toronto
+- Robert Jacob, Argonne National Laboratory
+- Bert Jagers, Deltares
+- Li Liu, Tsinghua University
+- Kristian Mogensen, ECMWF
+- Jean-Christophe Rioual, UK Met Office
+- Sophie Valcke, Cerfacs
+- Mariana Vertenstein, National Center for Atmospheric Research 
+- Niki Zadeh, Geophysical Fluid Dynamics Laboratory
+
+
 ### <a name="IWGCW"></a>International Working Committee on Coupling Technologies
 
 The International Working Committee on Coupling Technologies (IWCCT) organizes global efforts related to the characterization, comparison, and benchmarking of Earth system model coupling technologies.
