@@ -21,9 +21,10 @@ This series of workshops brings together leading researchers and practitioners i
 
 Number  | Name
 :------:|:-----:
-1 | [CW2010 Toulouse](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2010)
-2 | [CW2013 Boulder](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2013)
-3 | [CW2015 Manchester](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2015)
-4 | [CW2017 Princeton](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2017)
-5 | [CW2020 Virtual](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2020)
+1 | [CW2010, Toulouse](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2010)
+2 | [CW2013, Boulder](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2013)
+3 | [CW2015, Manchester](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2015)
+4 | [CW2017, Princeton](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2017)
+5 | [CW2020, Virtual](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2020)
+5 | [CW2023, Toulouse, January 18-20, 2023](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#CW2023)
 6 | [International Working Committee on Coupling Technologies](https://is-enes3.github.io/IS-ENES-Portal-Website/coupling-workshops-detailed#IWCCW)
