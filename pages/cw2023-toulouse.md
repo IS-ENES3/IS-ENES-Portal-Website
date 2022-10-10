@@ -1,7 +1,7 @@
 ---
 # change Empty Template and empty-template below
 layout: page
-title: Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
+title: 
 # uncomment these if needed
 # subheadline: Empty Template
 # teaser: "Empty Template."
@@ -25,9 +25,10 @@ header:
     image_fullwidth: "banniere_workshops.jpg"
 
 ---
-### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
 ![CW2023](../images/CW2023_visual_v1.jpg)
+
+### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France. The workshop will be held in a **hybrid format with remote attendance possible**.
 
