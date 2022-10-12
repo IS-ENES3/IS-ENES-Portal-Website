@@ -44,10 +44,10 @@ Topics relevant to the workshop include, but are not limited to:
 - Interaction of data assimilation and coupling technologies
 - Software development processes for complex coupled systems: Approaches for testing of complex coupled models, how code chages are made, build system, configuration system.
 
-**To register and propose a presentation, please fill [this form](https://cerfacs.fr/cw2023/). The deadline for submitting an abstract is Friday, October 14th, 2022.**
+**To register and propose a presentation, please fill [this form](https://cerfacs.fr/cw2023/). The deadline for submitting an abstract is Monday, October 17th, 2022.**
 Participation without making a presentation is also possible but the meeting space is limited to 70 people and presenters will have priority.
 
-Further information on the programme and registration procedure will be provided later on this webpage. 
+Further information on the programme will be provided later on this webpage. 
 
 **The CW2023 Program Committee** *(<cw_org@cerfacs.fr>)*
 - Anthony Craig, Software Consultant
