@@ -230,6 +230,7 @@ Contact: Sophie.Valcke[@]cerfacs.fr .
 
 ### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
+**[OFFICIAL WORKSHOP WEBPAGE (Registration and detailed information)](https://portal.enes.org/cw2023-toulouse/).**
 
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France. The workshop will be held in a **hybrid format with remote attendance possible**.
 
