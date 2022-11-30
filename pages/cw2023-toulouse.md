@@ -49,6 +49,9 @@ submitting an abstract has passed. In-person registration will remain open until
 
 There is no conference hotel and no hotel at the venue.  Public transportation to the venue is available.
 
+- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/List_of_hotels_in_Toulouse.pdf)
+- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/Access_Plan_CIC.pdf)
+
 Agenda - coming soon.
 
 **The CW2023 Program Committee** *(<cw_org@cerfacs.fr>)*
