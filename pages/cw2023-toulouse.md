@@ -52,7 +52,11 @@ There is no conference hotel and no hotel at the venue.  Public transportation t
 - [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/List_of_hotels_in_Toulouse.pdf)
 - [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/Access_Plan_CIC.pdf)
 
-Agenda - coming soon.
+Detailed Agenda - coming soon.
+The workshop will start onsite on January 18th with a welcome coffee at 2:00pm CET, and the talks will start at 2:30pm CET.
+- Wed. 18th: 2:30pm-6:00pm CET 
+- Thursday 19th: 10:00am-5:00pm CET 
+- Friday 20th: 11:00am-1:00pm CET
 
 **The CW2023 Program Committee** *(<cw_org@cerfacs.fr>)*
 - Anthony Craig, Software Consultant
