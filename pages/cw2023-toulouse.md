@@ -46,8 +46,8 @@ Topics relevant to the workshop include, but are not limited to:
 
 **You can find the detailed agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_agendaV1.pdf).**
 
-**To register and propose a presentation, please fill [this form](https://cerfacs.fr/cw2023/). The deadline for
-submitting an abstract has passed. In-person registration will remain open until the venue is full. Remote attendance is also possible.**
+**To register and propose a presentation, please fill [this form](https://cerfacs.fr/cw2023/).** The deadline for
+submitting an abstract has passed. In-person registration will remain open until the venue is full. Remote attendance is also possible.
 
 There is no conference hotel and no hotel at the venue.  Public transportation to the venue is available.
 
