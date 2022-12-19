@@ -52,7 +52,8 @@ There is no conference hotel and no hotel at the venue.  Public transportation t
 - [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/List_of_hotels_in_Toulouse.pdf)
 - [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/Access_Plan_CIC.pdf)
 
-Detailed Agenda - coming soon.
+**You can find the detailed agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_agendaV1.pdf).**
+
 The workshop will start onsite on January 18th with a welcome coffee at 2:00pm CET, and the talks will start at 2:30pm CET.
 - Wed. 18th: 2:30pm-6:00pm CET 
 - Thursday 19th: 10:00am-5:00pm CET 
