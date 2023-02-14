@@ -30,34 +30,49 @@ header:
 
 ### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
-The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France. The workshop will be held in a **hybrid format with remote attendance possible**.
+The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) was held in an hybrid format on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France.
 
-The workshop aims to bring together leading researchers and practitioners in the field of coupling infrastructure for Earth System Models. This workshop is the sixth in the series, started in 2010 in Toulouse and followed by Boulder USA (2013), Manchester UK (2015), Princeton USA (2017) and virtual (2020).
+- **Wednesday, January 18th**
+**Coupling Frameworks I**
+:--------: | :----------:
+Sophie Valcke | [OASIS3-MCT_5.0, the latest version of the OASIS coupler](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Valcke.pdf)
+Stefan Poll | [Land-atmosphere coupling with ICON and CLM5.0 in TSMP using OASIS3-MCT](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Poll.pdf)
+Robert Jacob | [MCT and MOAB in E3SM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Jacob.pdf)
+Daniel Rosen | [Latest developments in ESMF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Rosen.pdf)
+Tom Clune | [MAPL3: A hierarchical framework based on ESMF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Clune.pdf)
+Mariana Vertenstein | [Infrastructure for next generation community models using ESMF/NUOPC](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Vertenstein.pdf)
+Ufuk Turuncoglu | [Towards an Exchange Grid Implementation within the UFS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Turuncoglu.pdf)
 
-Topics relevant to the workshop include, but are not limited to:
-- Coupling technology latest developments
-- Use of Coupling Technologies in ESMs or other climate and weather-related coupled systems: successes and failures, original or ground-breaking applications
-- Computational performance of Couplers and Coupled Systems
-- Coupling at exascale on heterogeneous systems.
-- Science of Coupling and Coupling Strategies
-- Integration of coupling technologies into workflows
-- Interaction of data assimilation and coupling technologies
-- Software development processes for complex coupled systems: Approaches for testing of complex coupled models, how code chages are made, build system, configuration system.
+- **Thursday, January 19th**
+**Coupled Systems / Science of Coupling I**
+:--------: | :----------:
+Tomoko Nitta | [MIROC-ILS coupling: Coupling multiple land component models to an atmosphere and ocean model with Jcup](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Juan C. M. Sanchez | [The UKC3 regional coupled model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Vincenzo de Toma | [Prognostic Schemes of Skin Sea Surface Temperature for ocean-atmosphere coupled regional modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Nagaraju Chiluktoi | [An Assessment of coupling of CFS model with SSiB Land surface model on regional Climate](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
 
-**You can find the detailed agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023-agenda-5.pdf).**
+**Coupled Systems / Science of Coupling II**
+:--------: | :----------:
+Quentin Desmet | [RegCM-OASIS-Symphonie air-sea couping in Southeast Asia: development, parameterization and strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Carsten Lemmen | [Modeling systems in modeling systems in modeling systems - FABM in SCHISM in CoastalApp](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Stefan Jendersie | [Maintaining hydrostatic stability when coupling ROMS’ ice shelf to an ice sheet model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Olivier Marti | [Time schemes at the ocean-atmosphere interface](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
 
-**To register, please fill [this form](https://cerfacs.fr/cw2023/).** The deadline for
-submitting an abstract has passed. In-person registration will remain open until the venue is full. Remote attendance is also possible.
+**Performance**
+:--------: | :----------:
+Jan Streffing | [High resolution coupling with OpenIFS-FESOM2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Kristian Morgensen | [Coupling at scale: Experiences from the INCITE project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Sergi Palomas | [Automatic approach to balance coupled ESMs](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Arnaud Caubel | [Ensemble simulations with IPSL climate model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
 
-There is no conference hotel and no hotel at the venue.  Public transportation to the venue is available.
-
-- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/List_of_hotels_in_Toulouse.pdf)
-- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/Access_Plan_CIC.pdf)
-
-The workshop will start onsite on January 18th with a welcome coffee at 2:00pm CET, and the talks will start at 2:30pm CET.
-- Wed. 18th: 2:30pm-6:00pm CET 
-- Thursday 19th: 10:00am-5:00pm CET 
-- Friday 20th: 11:00am-1:00pm CET
+- **Friday, January 20th**
+:--------: | :----------:
+Bert Jagers | [Status update on BMI core and extensions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Li Liu | [C-Coupler3: an integrated coupler infrastructure for Earth system modelling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Uwe Fladrich | [Automating the Coupling Configuration for EC-Earth4](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Yann Meurdesoif | [XIOS-3 : Toward a new infrastructure of HPC services and model coupling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Moritz Hanke | [Update on YAC and coupled high resolution ICON-ESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Caroline Arnold | [Fortran-Python Bridge for Machine Learning Applications in Earth System Models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
 
 **The CW2023 Program Committee** *(<cw_org@cerfacs.fr>)*
 - Anthony Craig, Software Consultant
