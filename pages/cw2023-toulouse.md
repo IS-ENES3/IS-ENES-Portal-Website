@@ -31,11 +31,12 @@ header:
 ### <a name="CW2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) was held in an hybrid format on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in Toulouse, France.
+The workshop has been recorded and is available on the IS-ENES3 YouTube channel, under the dedicated **[playlist](https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020)**. 
 
 The **full programme** is available [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023-agenda-5.pdf)
 
 - **Wednesday, January 18th**
-**Coupling Frameworks I**
+**Session 1: Coupling Frameworks I ([Video recording](https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020))**
 
 :--------: | :----------:
 Sophie Valcke | [OASIS3-MCT_5.0, the latest version of the OASIS coupler](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Valcke.pdf)
@@ -47,7 +48,7 @@ Mariana Vertenstein | [Infrastructure for next generation community models using
 Ufuk Turuncoglu | [Towards an Exchange Grid Implementation within the UFS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Turuncoglu.pdf)
 
 - **Thursday, January 19th**
-**Coupled Systems / Science of Coupling I**
+**Session 2: Coupled Systems / Science of Coupling I ([Video recording](https://www.youtube.com/watch?v=UywvgDHOeVw&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&index=2&ab_channel=IS-ENES3H2020))**
 
 :--------: | :----------:
 Tomoko Nitta | [MIROC-ILS coupling: Coupling multiple land component models to an atmosphere and ocean model with Jcup](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Nitta.pdf)
@@ -55,7 +56,7 @@ Juan C. M. Sanchez | [The UKC3 regional coupled model](https://raw.githubusercon
 Vincenzo de Toma | [Prognostic Schemes of Skin Sea Surface Temperature for ocean-atmosphere coupled regional modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_DeToma.pdf)
 Nagaraju Chiluktoi | [An Assessment of coupling of CFS model with SSiB Land surface model on regional Climate](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Nagaraju.pdf)
 
-**Coupled Systems / Science of Coupling II**
+**Session 3: Coupled Systems / Science of Coupling II ([Video recording](https://www.youtube.com/watch?v=Cj23tNuJHaY&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&index=3&ab_channel=IS-ENES3H2020))**
 
 :--------: | :----------:
 Quentin Desmet | [RegCM-OASIS-Symphonie air-sea couping in Southeast Asia: development, parameterization and strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Desmet.pdf)
@@ -63,7 +64,7 @@ Carsten Lemmen | [Modeling systems in modeling systems in modeling systems - FAB
 Stefan Jendersie | [Maintaining hydrostatic stability when coupling ROMS’ ice shelf to an ice sheet model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Jendersie.pdf)
 Olivier Marti | [Time schemes at the ocean-atmosphere interface](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Marti.pdf)
 
-**Performance**
+**Session 4: Performance ([Video recording](https://www.youtube.com/watch?v=klSJMiOI1yU&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&index=4&ab_channel=IS-ENES3H2020))**
 
 :--------: | :----------:
 Jan Streffing | [High resolution coupling with OpenIFS-FESOM2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Streffing.pdf)
@@ -72,6 +73,8 @@ Sergi Palomas | [Automatic approach to balance coupled ESMs](https://raw.githubu
 Arnaud Caubel | [Ensemble simulations with IPSL climate model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Caubel.pdf)
 
 - **Friday, January 20th**
+
+**Session 5: Coupling Framework II ([Video recording](https://www.youtube.com/watch?v=P0eoZobw70s&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&index=5&ab_channel=IS-ENES3H2020))**
 
 :--------: | :----------:
 Bert Jagers | [Status update on BMI core and extensions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Jagers.pdf)
