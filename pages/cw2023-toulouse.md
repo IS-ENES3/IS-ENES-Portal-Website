@@ -46,24 +46,24 @@ Ufuk Turuncoglu | [Towards an Exchange Grid Implementation within the UFS](https
 - **Thursday, January 19th**
 **Coupled Systems / Science of Coupling I**
 :--------: | :----------:
-Tomoko Nitta | [MIROC-ILS coupling: Coupling multiple land component models to an atmosphere and ocean model with Jcup](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Juan C. M. Sanchez | [The UKC3 regional coupled model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Vincenzo de Toma | [Prognostic Schemes of Skin Sea Surface Temperature for ocean-atmosphere coupled regional modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Nagaraju Chiluktoi | [An Assessment of coupling of CFS model with SSiB Land surface model on regional Climate](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Tomoko Nitta | [MIROC-ILS coupling: Coupling multiple land component models to an atmosphere and ocean model with Jcup](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Nitta.pdf)
+Juan C. M. Sanchez | [The UKC3 regional coupled model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_JuanCastillo.pdf)
+Vincenzo de Toma | [Prognostic Schemes of Skin Sea Surface Temperature for ocean-atmosphere coupled regional modeling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_DeToma.pdf)
+Nagaraju Chiluktoi | [An Assessment of coupling of CFS model with SSiB Land surface model on regional Climate](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Nagaraju.pdf)
 
 **Coupled Systems / Science of Coupling II**
 :--------: | :----------:
-Quentin Desmet | [RegCM-OASIS-Symphonie air-sea couping in Southeast Asia: development, parameterization and strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Carsten Lemmen | [Modeling systems in modeling systems in modeling systems - FABM in SCHISM in CoastalApp](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Stefan Jendersie | [Maintaining hydrostatic stability when coupling ROMS’ ice shelf to an ice sheet model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Olivier Marti | [Time schemes at the ocean-atmosphere interface](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Quentin Desmet | [RegCM-OASIS-Symphonie air-sea couping in Southeast Asia: development, parameterization and strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Desmet.pdf)
+Carsten Lemmen | [Modeling systems in modeling systems in modeling systems - FABM in SCHISM in CoastalApp](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Lemmen.pdf)
+Stefan Jendersie | [Maintaining hydrostatic stability when coupling ROMS’ ice shelf to an ice sheet model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Jendersie.pdf)
+Olivier Marti | [Time schemes at the ocean-atmosphere interface](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Marti.pdf)
 
 **Performance**
 :--------: | :----------:
-Jan Streffing | [High resolution coupling with OpenIFS-FESOM2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Kristian Morgensen | [Coupling at scale: Experiences from the INCITE project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Sergi Palomas | [Automatic approach to balance coupled ESMs](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
-Arnaud Caubel | [Ensemble simulations with IPSL climate model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/)
+Jan Streffing | [High resolution coupling with OpenIFS-FESOM2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Streffing.pdf)
+Kristian Morgensen | [Coupling at scale: Experiences from the INCITE project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Morgensen.pdf)
+Sergi Palomas | [Automatic approach to balance coupled ESMs](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Palomas.pdf)
+Arnaud Caubel | [Ensemble simulations with IPSL climate model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Caubel.pdf)
 
 - **Friday, January 20th**
 :--------: | :----------:
