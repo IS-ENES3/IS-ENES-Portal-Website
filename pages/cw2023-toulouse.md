@@ -35,6 +35,8 @@ The workshop has been recorded and is available on the IS-ENES3 YouTube channel,
 
 The **full programme** is available [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023-agenda-5.pdf)
 
+The **final version of the Questions & Answers document** is available [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Portal-Website/master/pdf_documents/CW2023_Q&A_document_All_sessions.pdf).
+
 - **Wednesday, January 18th**
 **Session 1: Coupling Frameworks I ([Video recording](https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020))**
 
