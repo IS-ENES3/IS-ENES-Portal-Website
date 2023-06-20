@@ -41,24 +41,22 @@ The HPC-TF also:
 - Helps develop collaboration with vendors
  
 
-**Members** of ENES HPC-TF are, as of July 2022:
+**Members** of ENES HPC-TF are, as of June 2022:
 
+- Mario Acosta (BSC)
 - Fanny Adloff (DKRZ)
 - Giovanni Aloisio (CMCC)
-- Jean-Claude André (Cerfacs) - **CHAIR**
 - Peter Bauer (ECMWF)
 - Mauro Bianco (CSCS)
 - Joachim Biercamp (DKRZ)
-- Reinhard Budich (MPI-Met)
 - Francisco Doblas-Reyes (BSC)
 - Italo Epicoco (CMCC)
-- Uwe Fladrich (SMHI)
+- Uwe Fladrich (SMHI) - **CHAIR**
 - Sylvie Joussaume (IPSL)
 - Bryan Lawrence (NCAS)
 - Olivier Marti (IPSL)
 - Antonio Navarra (CMCC)
 - Graham Riley (University of Manchester)
 - Jean-Christophe Rioual (Met Office)
-- Kim Serradell (BSC)
-- Sophie Valcke  (Cerfacs)
+- Sophie Valcke  (Cerfacs) - **CO-CHAIR**
 - Pier Luigi Vidale (NCAS)
