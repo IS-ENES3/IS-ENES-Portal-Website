@@ -29,6 +29,8 @@ The ENES Data-TF is consulted on strategic issues such as:
 - Advising and Representing ENES in international coordination activities and in the deployment of international climate data infrastructure — both within Europe and beyond. Leading and co-leading European and International climate-related activities on standards.
 - Establishing and promulgating common European positions dealing with data, metadata services and the necessary software and services.
 
+The ENES DTF will play an advisory role in the specification and operation of the ENES Climate Data Infrastructure (CDI). The CDI comprises both contributions from national data service infrastructures and dedicated jointly managed elements, all of which are operated in a collaborative framework by ENES partners to deliver data services supporting output from coordinated climate simulations. The DTF supports the objective of turning the CDI into a component of a sustainable European Research Infrastructure. 
+
 
 Members of ENES Data-TF are, as of July 2022:
 
