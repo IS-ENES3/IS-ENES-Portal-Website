@@ -18,6 +18,23 @@ header:
     image_fullwidth: "banniere_research_infrastructure.jpg"
 
 ---
+### Draft ENES Infrastructure Strategy 2024-2033 Open for Comment
+
+We have now published a [draft](https://www.google.com/url?q=https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.1_FV_numbered.pdf&sa=D&source=docs&ust=1687945324376512&usg=AOvVaw09b8agPL5wT6x_l-uTTYzh), and are seeking feedback from the community via [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfSC3THxOfoXaGKpKfEiI64iPgiBk5r-SWSglIHYT-C2pGZsA/viewform) - by August 17 2023.
+
+There are seven headline recommendations:
+
+1. The HPC community must continue to provide both CPU and GPU machines; a lot of climate codes will not be sensibly deployed on GPU machines in the near future (even if they can be made to run on them).
+2. There is a need for a more operational aspect to some aspects of climate science.
+3. The community should continue to invest in managing and sustaining shared infrastructure.
+4. Model development takes a long time and is resource intensive. Modellers will have to pay attention to the choices between Performance, Portability, and (scientific) Productivity; in the new world, we can only have two!
+5. Large expensive modelling projects need to be treated like satellite missions, well publicised and documented.
+6. The community should continue to invest in the necessary underpinning diagnostic tools and libraries.
+7. Storage and data systems need to support a variety of use-cases.
+
+However, there are 37 numbered detailed recommendations, seven of which target the HPC community - the other thirty target the climate modelling community. There ought to be no surprises in this document, but nonetheless, community feedback would be valuable, especially if there are significant things missing, or some things need more emphasis.
+
+<hr style="border:2px solid gray">
 
 ### The infrastructure strategy for ENES 2012-2022: mid-term update 2017
 
