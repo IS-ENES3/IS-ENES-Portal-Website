@@ -20,32 +20,30 @@ header:
 
 ---
 
-**ENES has set an HPC Task Force (HPC-TF) to gather and express community needs and to organize the community around HPC issues.**
+**ENES has set up the Models-Tools-HPC Task Force (MTHPC-TF) to gather and express community needs and to organise the community around the common development of Models and Tools, and general HPC issues.**
 
-The ENES HPC Task Force aims to advice the ENES Board on all issues relevant to High Performance Computing for the European climate modelling community, such as those related to the use of the European HPC ecosystem, in particular with regards to the PRACE European facility, and issues related to software developments. The ENES Task Force is serving projects like, today, IS-ENES3 and ESiWACE2. It has recently been extended to include issues related to Numerical Weather Prediction (NWP)
+The ENES Models-Tools-HPC Task Force (MTHPC-TF) serves the needs of the European large-scale climate modelling community and aims to advise on issues relevant to
+- the common development of Earth System Models (ESMs) and ESM components,
+- the common development of infrastructure tools for ESMs, and
+- High-performance computing (HPC) for weather and climate models.
+  
+HPC issues are addressed specifically in the context of common European facilities, such as EuroHPC. The ENES MTHPC-TF is serving common infrastructure projects, like ESiWACE3. It makes the link with the numerical weather prediction (NWP) community and other climate modelling activities.
 
-The ENES HPC-TF **is consulted on issues** such as:
+The MTHPC-TF supports the development of climate models and development and governance of related community infrastructure software, coordinated climate modelling activities, e.g. WCRP, and the underpinning computational infrastructure, and the shaping, access and efficient use of European HPC systems for simulation and data analysis for climate research.
 
-- Providing input on HPC requirements for the update of the ENES infrastructure strategy
-- Proposing ENES responses to PRACE requests on needs
-- Developing the ENES-PRACE collaboration
-- Following and advising on ENES involvement in HPC projects (e.g., EU or G8 calls)
-- Advising on ENES letters of support related to projects dealing with HPC
- 
-
-The HPC-TF also:
-
-- Follows the PRACE projects involving the ENES community
-- Helps develop technology tracking with regards to future computing
-- Follows exascale international issues
-- Helps develop collaboration with vendors
+To this end, the MTHPC-TF engages in activities like
+- maintaining and developing the interaction channels within the community, for example contributing to the ENES HPC workshops and newsletters,
+- gathering the community requirements on model/tool development and HPC,
+- providing input for development of relevant strategies (within, across, and outside the ENES community),
+- organising community interaction with European HPC providers and programmes
+(such as EuroHPC and similar entities), and
+- tracking the technology evolution influencing the software of community interest and interacting with HPC vendors.
  
 
 **Members** of ENES HPC-TF are, as of June 2022:
 
 - Mario Acosta (BSC)
 - Fanny Adloff (DKRZ)
-- Giovanni Aloisio (CMCC)
 - Peter Bauer (ECMWF)
 - Mauro Bianco (CSCS)
 - Joachim Biercamp (DKRZ)
@@ -55,8 +53,6 @@ The HPC-TF also:
 - Sylvie Joussaume (IPSL)
 - Bryan Lawrence (NCAS)
 - Olivier Marti (IPSL)
-- Antonio Navarra (CMCC)
-- Graham Riley (University of Manchester)
 - Jean-Christophe Rioual (Met Office)
 - Sophie Valcke  (Cerfacs) - **CO-CHAIR**
 - Pier Luigi Vidale (NCAS)
