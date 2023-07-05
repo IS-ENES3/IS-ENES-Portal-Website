@@ -30,7 +30,7 @@ widget3:
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/projects/'
   image: picto_Deliv_Milestones.png
 widget4:
-  title: "HPC Task Force"
+  title: "Models-Tools-HPC Task Force"
   url: 'https://is-enes3.github.io/IS-ENES-Portal-Website/hpc-task-force/'
   image: picto_Supercalculateur.png
   text: 'Advising on high-performance computing'
