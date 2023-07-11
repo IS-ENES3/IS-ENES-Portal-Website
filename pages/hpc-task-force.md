@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ENES HPC Task Force
+title: ENES Models-Tools-HPC Task Force
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/hpc-task-force/"
+permalink: "/mthpc-task-force/"
 categories:
     - design
 tags:
