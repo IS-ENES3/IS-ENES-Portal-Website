@@ -32,7 +32,7 @@ The ENES Data-TF is consulted on strategic issues such as:
 The ENES DTF will play an advisory role in the specification and operation of the ENES Climate Data Infrastructure (CDI). The CDI comprises both contributions from national data service infrastructures and dedicated jointly managed elements, all of which are operated in a collaborative framework by ENES partners to deliver data services supporting output from coordinated climate simulations. The DTF supports the objective of turning the CDI into a component of a sustainable European Research Infrastructure. 
 
 
-Members of ENES Data-TF are, as of July 2022:
+Members of ENES Data-TF are, as of November 2023:
 
 - Fanny Adloff (DKRZ)
 - Antonio Cofiño (CSIC)
@@ -48,6 +48,7 @@ Members of ENES Data-TF are, as of July 2022:
 - Grigory Nikulin (SMHI)
 - Christian Pagé (Cerfacs)
 - Alessandro Spinuso (KNMI)
+- Klaus Zimmermann (SMHI)
 
 <!---
 The Data Task Force of the European Network for Earth Simulation (ENES) aims to advise and represent the ENES Board on all issues relevant to data infrastructure necessary to support and exploit Earth’s climate system simulation in Europe. 
