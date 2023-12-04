@@ -41,10 +41,9 @@ Members of ENES Data-TF are, as of November 2023:
 - Martin Juckes (CEDA)
 - Philip Kershaw (CEDA)
 - Stephan Kindermann (DKRZ)
-- Michael Lautenschlager (DKRZ) - **CHAIR**
 - Bryan Lawrence (NCAS)
 - Guillaume Levavasseur (IPSL)
-- Paola Nassisi (CMCC)
+- Paola Nassisi (CMCC) - **CHAIR**
 - Grigory Nikulin (SMHI)
 - Christian Pagé (Cerfacs)
 - Alessandro Spinuso (KNMI)
