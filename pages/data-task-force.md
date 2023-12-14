@@ -35,6 +35,7 @@ The ENES DTF will play an advisory role in the specification and operation of th
 Members of ENES Data-TF are, as of December 2023:
 
 - Fanny Adloff (DKRZ)
+- Pierre-Antoine Bretonnière (BSC)
 - Antonio Cofiño (CSIC)
 - Sandro Fiore (University of Trento)
 - Sylvie Joussaume (IPSL)
