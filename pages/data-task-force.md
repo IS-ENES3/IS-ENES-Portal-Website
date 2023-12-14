@@ -44,7 +44,7 @@ Members of ENES Data-TF are, as of December 2023:
 - Stephan Kindermann (DKRZ)
 - Bryan Lawrence (NCAS)
 - Guillaume Levavasseur (IPSL)
-- Paola Nassisi (CMCC) - **CHAIR**
+- **Paola Nassisi (CMCC) - CHAIR**
 - Grigory Nikulin (SMHI)
 - Christian Pagé (Cerfacs)
 - Alessandro Spinuso (KNMI)
