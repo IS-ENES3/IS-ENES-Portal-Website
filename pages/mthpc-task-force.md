@@ -40,19 +40,22 @@ To this end, the MTHPC-TF engages in activities like
 - tracking the technology evolution influencing the software of community interest and interacting with HPC vendors.
  
 
-**Members** of ENES HPC-TF are, as of February 2024:
+**Members** of ENES HPC-TF are, as of June 2025:
 
-- Mario Acosta (BSC)
+- Mario Acosta (BSC) - **CHAIR**
+- Sophie Valcke (Cerfacs) - **CO-CHAIR**
 - Fanny Adloff (DKRZ)
+- Mauro Bianco (CSCS)
 - Joachim Biercamp (DKRZ)
+- Hendryk Bockelmann (DKRZ)
+- Giovanni Chellini (IPSL, ENES-RI SO)
 - Francisco Doblas-Reyes (BSC)
 - Italo Epicoco (CMCC)
-- Uwe Fladrich (SMHI) - **CHAIR**
 - Sylvie Joussaume (IPSL)
 - Bryan Lawrence (NCAS)
 - Olivier Marti (IPSL)
 - Jean-Christophe Rioual (Met Office)
 - Will Sawyer (CSCS)
-- Sophie Valcke (Cerfacs) - **CO-CHAIR**
+- Jan Streffing (AWI)
 - Pier Luigi Vidale (NCAS)
 - Nils Wedi (ECMWF)
