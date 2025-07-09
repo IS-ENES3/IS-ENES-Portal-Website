@@ -34,20 +34,20 @@ The ENES DTF will play an advisory role in the specification and operation of th
 
 Members of ENES Data-TF are, as of February 2024:
 
+- **Paola Nassisi (CMCC) - CHAIR**
+- **Sandro Fiore (University of Trento) - CO-CHAIR**
 - Fanny Adloff (DKRZ)
 - Bouwe Andela (NLeSC)
 - Pierre-Antoine Bretonnière (BSC)
 - Lars Buntemeyer (GERICS)
 - Giovanni Chellini (IPSL, ENES-RI SO)
 - Antonio Cofiño (CSIC)
-- **Sandro Fiore (University of Trento) - CO-CHAIR**
 - Sylvie Joussaume (IPSL)
 - Martin Juckes (CEDA)
 - Philip Kershaw (CEDA)
 - Stephan Kindermann (DKRZ)
 - Bryan Lawrence (NCAS)
 - Guillaume Levavasseur (IPSL)
-- **Paola Nassisi (CMCC) - CHAIR**
 - Christian Pagé (Cerfacs)
 - Alessandro Spinuso (KNMI)
 
