@@ -34,8 +34,8 @@ The ENES DTF will play an advisory role in the specification and operation of th
 
 Members of ENES Data-TF are, as of February 2024:
 
-- **Paola Nassisi (CMCC) - CHAIR**
-- **Sandro Fiore (University of Trento) - CO-CHAIR**
+- Paola Nassisi (CMCC) - **CHAIR**
+- Sandro Fiore (University of Trento) - **CO-CHAIR**
 - Fanny Adloff (DKRZ)
 - Bouwe Andela (NLeSC)
 - Pierre-Antoine Bretonnière (BSC)
