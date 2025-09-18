@@ -32,12 +32,11 @@ The ENES Data-TF is consulted on strategic issues such as:
 The ENES DTF will play an advisory role in the specification and operation of the ENES Climate Data Infrastructure (CDI). The CDI comprises both contributions from national data service infrastructures and dedicated jointly managed elements, all of which are operated in a collaborative framework by ENES partners to deliver data services supporting output from coordinated climate simulations. The DTF supports the objective of turning the CDI into a component of a sustainable European Research Infrastructure. 
 
 
-Members of ENES Data-TF are, as of February 2024:
+Members of ENES Data-TF are, as of September 2025:
 
 - Paola Nassisi (CMCC) - **CHAIR**
 - Sandro Fiore (University of Trento) - **CO-CHAIR**
 - Fanny Adloff (DKRZ)
-- Bouwe Andela (NLeSC)
 - Pierre-Antoine Bretonnière (BSC)
 - Lars Buntemeyer (GERICS)
 - Giovanni Chellini (IPSL, ENES-RI SO)
@@ -49,6 +48,7 @@ Members of ENES Data-TF are, as of February 2024:
 - Bryan Lawrence (NCAS)
 - Guillaume Levavasseur (IPSL)
 - Christian Pagé (Cerfacs)
+- Alistair Sellar (UK Met Office)
 - Alessandro Spinuso (KNMI)
 
 <!---
