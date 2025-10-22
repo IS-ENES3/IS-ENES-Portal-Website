@@ -40,7 +40,7 @@ To this end, the MTHPC-TF engages in activities like
 - tracking the technology evolution influencing the software of community interest and interacting with HPC vendors.
  
 
-**Members** of ENES HPC-TF are, as of June 2025:
+**Members** of ENES HPC-TF are, as of October 2025:
 
 - Mario Acosta (BSC) - **CHAIR**
 - Sophie Valcke (Cerfacs) - **CO-CHAIR**
