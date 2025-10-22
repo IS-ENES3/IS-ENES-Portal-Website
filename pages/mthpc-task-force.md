@@ -51,6 +51,7 @@ To this end, the MTHPC-TF engages in activities like
 - Giovanni Chellini (IPSL, ENES-RI SO)
 - Francisco Doblas-Reyes (BSC)
 - Italo Epicoco (CMCC)
+- Birgit Hassler (DLR)
 - Sylvie Joussaume (IPSL)
 - Bryan Lawrence (NCAS)
 - Olivier Marti (IPSL)
