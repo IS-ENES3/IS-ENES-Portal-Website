@@ -39,7 +39,6 @@ Members of ENES Data-TF are, as of September 2025:
 - Fanny Adloff (DKRZ)
 - Pierre-Antoine Bretonnière (BSC)
 - Lars Buntemeyer (GERICS)
-- Giovanni Chellini (IPSL, ENES-RI SO)
 - Antonio Cofiño (CSIC)
 - Sylvie Joussaume (IPSL)
 - Martin Juckes (CEDA)
@@ -48,6 +47,8 @@ Members of ENES Data-TF are, as of September 2025:
 - Bryan Lawrence (NCAS)
 - Guillaume Levavasseur (IPSL)
 - Christian Pagé (Cerfacs)
+- Anna Peregon (IPSL, ENES-RI SO)
+- Karsten Peters-von Gehlen (DKRZ)
 - Alistair Sellar (UK Met Office)
 - Alessandro Spinuso (KNMI)
 
